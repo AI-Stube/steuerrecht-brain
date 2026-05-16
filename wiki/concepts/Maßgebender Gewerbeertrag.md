@@ -1,0 +1,17 @@
+---
+tags: [gewerbesteuer, gewstg]
+sources: [archive/gewstg.json]
+created: 2026-05-16
+updated: 2026-05-16
+---
+
+# Maßgebender Gewerbeertrag
+
+Maßgebender Gewerbeertrag ist ein Begriff aus dem Gewerbesteuergesetz. Im GewStG-Kontext wird er in den unten verlinkten Paragraphen verwendet oder näher geregelt.
+
+## Relevante Paragraphen
+
+- [[GewStG § 10 Maßgebender Gewerbeertrag]] — Kernregelungsbereich von § 10 GewStG.
+
+## GewStG-Kontext
+- [[GewStG § 10 Maßgebender Gewerbeertrag]] — Kernregelungsbereich von § 10 GewStG.

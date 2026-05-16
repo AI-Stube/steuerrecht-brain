@@ -1,0 +1,1489 @@
+# Index
+
+Master catalog of all wiki pages. Updated on every ingest.
+
+## Sources
+
+- [[Gewerbesteuergesetz (GewStG)]] — Vollständiges GewStG: Gewerbesteuer, Gewerbeertrag, Messbetrag und Zerlegung (41 Einträge)
+
+- [[Einkommensteuergesetz (EStG)]] — Vollständiges EStG: Steuerpflicht, Einkunftsarten, Gewinnermittlung, Lohnsteuer (243 Paragraphen)
+- [[Umsatzsteuergesetz (UStG)]] — Vollständiges UStG: § 1 bis § 30 inkl. Buchstabenparagraphen (88 Einträge)
+
+## Entities
+
+## Concepts
+
+- [[Unbeschränkte Einkommensteuerpflicht]] — Steuerpflicht für Personen mit Wohnsitz/Aufenthalt im Inland (§ 1 EStG)
+- [[Beschränkte Einkommensteuerpflicht]] — Steuerpflicht für Personen ohne Inland-Wohnsitz mit inländischen Einkünften (§ 1 EStG)
+- [[Wohnsitz]] — Steuerrechtlicher Anknüpfungspunkt für unbeschränkte Steuerpflicht (§ 1 EStG)
+- [[Gewöhnlicher Aufenthalt]] — Alternativer Anknüpfungspunkt zur Steuerpflicht neben Wohnsitz (§ 1 EStG)
+- [[Inländische Einkünfte]] — Einkünfte mit Inlandsbezug gem. § 49 EStG, relevant für beschränkte Steuerpflicht
+- [[Grundfreibetrag]] — Steuerfreier Einkommenssockel gem. § 32a Abs. 1 (§ 1 Abs. 3 EStG)
+- [[Doppelbesteuerungsabkommen]] — Abkommen zur Vermeidung doppelter Besteuerung desselben Einkommens
+- [[EU-EWR-Staatsangehöriger]] — Staatsangehörige der EU/EWR-Staaten mit erweiterten Rechten im EStG (§ 1a EStG)
+- [[Sonderausgaben]] — Bestimmte Ausgaben abzugsfähig vom Gesamtbetrag der Einkünfte (§ 1a, § 10 EStG)
+- [[Vorsorgeaufwendungen]] — Beiträge zur Alters-, Kranken-, Pflege- und Erwerbsabsicherung (§ 10 EStG)
+- [[Altersvorsorgebeiträge]] — Beiträge zur zusätzlichen Altersvorsorge mit Sonderausgabenabzug nach § 10a
+- [[Altersvorsorgezulage]] — Zulage nach Abschnitt XI, relevant für die § 10a-Günstigerprüfung
+- [[Begünstigter Personenkreis]] — Förderberechtigte Personen für den zusätzlichen Altersvorsorgeabzug
+- [[Mindesteigenbeitrag]] — Beitragsgröße für das Altersvorsorgezulageverfahren (§ 10a, § 86 EStG)
+- [[Kinderzulage]] — Zulagenbestandteil der zusätzlichen Altersvorsorge
+- [[Zentrale Stelle]] — Stelle für Altersvorsorgezulage, Datenübermittlung und Beitragsverfahren
+- [[Günstigerprüfung]] — Amtswegiger Vergleich zwischen Zulage und Sonderausgabenabzug
+- [[Zulagenummer]] — Identifikationsmerkmal im Altersvorsorgezulageverfahren
+- [[Unterhaltsleistungen]] — Abziehbare Zahlungen an geschiedene oder dauernd getrennt lebende Ehegatten
+- [[Versorgungsleistungen]] — Wiederkehrende Leistungen aus besonderen Verpflichtungsgründen (§ 10 Abs. 1a EStG)
+- [[Versorgungsausgleich]] — Steuerliche Behandlung von Ausgleichsleistungen und -zahlungen nach § 10 EStG
+- [[Kirchensteuer]] — Grundsätzlich als Sonderausgabe abziehbare gezahlte Kirchensteuer
+- [[Kinderbetreuungskosten]] — Anteilig abziehbare Betreuungskosten für haushaltszugehörige Kinder
+- [[Schulgeld]] — Anteilig abziehbares Entgelt für bestimmte Privatschulen und Deutsche Schulen im Ausland
+- [[Steuerbegünstigte Zwecke]] — Gemeinnützige, mildtätige oder kirchliche Zwecke für Zuwendungsabzug
+- [[Zuwendungen]] — Spenden und Mitgliedsbeiträge mit Sonderausgabenabzug nach § 10b EStG
+- [[Mitgliedsbeiträge]] — Beiträge an Körperschaften mit § 10b-Abziehbarkeit oder Abzugsverboten
+- [[Vermögensstock]] — Zu erhaltendes Stiftungsvermögen mit besonderem Zehnjahres-Abzugsbetrag
+- [[Zuwendungsbestätigung]] — Nachweis über Spenden und Mitgliedsbeiträge
+- [[Veranlasserhaftung]] — Haftung bei Fehlverwendung bestätigter steuerbegünstigter Zuwendungen
+- [[Amtshilfe und Beitreibung]] — Voraussetzung für Abzug bei ausländischen Zuwendungsempfängern
+- [[Sonderausgaben-Pauschbetrag]] — 36-Euro-Pauschbetrag für bestimmte Sonderausgaben
+- [[Ehegattenveranlagung]] — Zusammen- oder Einzelveranlagung von Ehegatten (§ 1a, §§ 26–26b EStG)
+- [[Europäischer Wirtschaftsraum]] — EWR als erweiterter EU-Rahmen für steuerliche Gleichbehandlung
+- [[Sieben Einkunftsarten]] — Die 7 Einkunftsarten des § 2 EStG als Grundstruktur der Einkommensteuer
+- [[Gewinn]] — Betriebsvermögensvergleich oder Überschuss bei betrieblichen Einkunftsarten (§ 2 EStG)
+- [[Werbungskosten]] — Aufwendungen zur Erwerbung, Sicherung und Erhaltung von Einnahmen (§ 2, § 9 EStG)
+- [[Entfernungspauschale]] — Pauschaler Werbungskostenabzug für Wege zur ersten Tätigkeitsstätte
+- [[Erste Tätigkeitsstätte]] — Dauerhaft zugeordnete ortsfeste Einrichtung für Fahrt- und Reisekosten
+- [[Verpflegungspauschale]] — Pauschaler Abzug für beruflich veranlasste auswärtige Verpflegung
+- [[Arbeitsmittel]] — Beruflich genutzte Werkzeuge und typische Berufskleidung als Werbungskosten
+- [[Berufsausbildungskosten]] — Werbungskosten nur bei Zweitausbildung oder Ausbildung im Dienstverhältnis
+- [[Arbeitnehmer-Pauschbetrag]] — Pauschbetrag für Werbungskosten aus nichtselbständiger Arbeit
+- [[Versorgungsbezüge]] — Bezüge mit besonderem Werbungskosten-Pauschbetrag nach § 9a EStG
+- [[Versorgungsfreibetrag]] — Freibetrag für bestimmte Versorgungsbezüge
+- [[Gewerkschaftsbeiträge]] — Beiträge an Berufsverbände als Werbungskosten
+- [[Vorsteuerbetrag]] — Abziehbare Umsatzsteuer, die nicht zu AK/HK zählt (§ 9b EStG)
+- [[Vorsteuerabzug]] — Umsatzsteuerlicher Abzug mit einkommensteuerlicher Berichtigung nach § 9b EStG
+- [[Gesamtbetrag der Einkünfte]] — Summe aller Einkünfte nach Verlustverrechnung (§ 2 EStG)
+- [[Negative Einkünfte]] — Nicht ausgeglichene Verluste als Ausgangspunkt für Rücktrag und Vortrag
+- [[Verlustrücktrag]] — Rückwirkender Abzug negativer Einkünfte in vorangegangenen Jahren
+- [[Verlustvortrag]] — Abzug verbleibender negativer Einkünfte in späteren Veranlagungszeiträumen
+- [[Verbleibender Verlustvortrag]] — Gesondert festgestellter Verlustbestand zum Jahresende
+- [[Einkommen]] — Gesamtbetrag der Einkünfte abzüglich Sonderausgaben und Freibeträge (§ 2 EStG)
+- [[Zu versteuerndes Einkommen]] — Bemessungsgrundlage für die Einkommensteuer (§ 2 EStG)
+- [[Tarifliche Einkommensteuer]] — Nach § 32a berechnete Steuer vor Ermäßigungen (§ 2 EStG)
+- [[Außergewöhnliche Belastungen]] — Abzugsfähige außergewöhnliche Ausgaben gem. §§ 33–33b EStG
+- [[Drittstaat]] — Staat außerhalb der EU und des EWR (§ 2a EStG)
+- [[Verlustverrechnungsbeschränkung]] — Beschränkung der Verrechenbarkeit von Verlusten aus Drittstaaten (§ 2a EStG)
+- [[Verbleibende negative Einkünfte]] — Nicht verrechenbare Verluste aus Drittstaaten (§ 2a EStG)
+- [[Betriebsstätte]] — Feste Geschäftseinrichtung als steuerlicher Anknüpfungspunkt (§ 2a EStG)
+- [[Teilwert]] — Wert eines Wirtschaftsguts bei Unternehmensfortführung (§ 2a EStG)
+- [[Drittstaaten-Körperschaft]] — Körperschaft mit Sitz/Geschäftsleitung in einem Drittstaat (§ 2a EStG)
+- [[Steuerfreie Einnahmen]] — Katalog steuerbefreiter Einnahmen gem. § 3 EStG (Nummern 1–73)
+- [[Mutterschaftsgeld]] — Steuerfreie Leistung nach § 3 Nr. 1d EStG, unterliegt Progressionsvorbehalt
+- [[Arbeitslosengeld]] — Steuerfreie Lohnersatzleistung nach § 3 Nr. 2a EStG, unterliegt Progressionsvorbehalt
+- [[Elterngeld]] — Steuerfreie Familienleistung nach § 3 Nr. 67b EStG, unterliegt Progressionsvorbehalt
+- [[Übungsleiter-Freibetrag]] — Steuerfreiheit bis 3.300 €/Jahr für nebenberufliche Übungsleiter (§ 3 Nr. 26 EStG)
+- [[Ehrenamtspauschale]] — Steuerfreiheit bis 960 €/Jahr für nebenberufliche Ehrenamtstätigkeiten (§ 3 Nr. 26a EStG)
+- [[Aufwandsentschädigungen]] — Steuerfreie Zahlungen aus öffentlichen Kassen (§ 3 Nr. 12 EStG)
+- [[Photovoltaikanlagen]] — Steuerfreiheit für Einnahmen aus PV-Anlagen bis 30/100 kWp (§ 3 Nr. 72 EStG)
+- [[Trinkgelder]] — Unbegrenzt steuerfreie Zuwendungen von Dritten an Arbeitnehmer (§ 3 Nr. 51 EStG)
+- [[Betriebliche Altersvorsorge]] — Steuerfreiheit für Beiträge zur bAV, nachgelagerte Besteuerung (§ 3 Nr. 55–63a EStG)
+- [[Sanierungsertrag]] — Steuerfreier Ertrag aus unternehmensbezogener Sanierung (§ 3a EStG)
+- [[Grundlohn]] — Bemessungsgrundlage für steuerfreie SFN-Zuschläge, max. 50 €/Std. (§ 3b EStG)
+- [[Betriebsvermögen]] — Gesamtheit der betrieblich genutzten Wirtschaftsgüter (§ 4 EStG)
+- [[Betriebsausgaben]] — Aufwendungen durch den Betrieb veranlasst, abziehbar von Betriebseinnahmen (§ 4 EStG)
+- [[Entnahme]] — Überführung von Wirtschaftsgütern aus dem Betrieb in den privaten Bereich (§ 4 EStG)
+- [[Einlage]] — Zuführung von Wirtschaftsgütern aus dem Privatvermögen in den Betrieb (§ 4 EStG)
+- [[Überentnahme]] — Entnahmen übersteigen Gewinn + Einlagen; begrenzt Schuldzinsenabzug (§ 4 Abs. 4a EStG)
+- [[Wirtschaftsjahr]] — Abrechnungszeitraum für die Gewinnermittlung, kann vom Kalenderjahr abweichen (§ 4a EStG)
+- [[Direktversicherung]] — Lebensversicherung des Arbeitgebers auf das Leben des Arbeitnehmers (§ 4b EStG)
+- [[Pensionskasse]] — Versorgungseinrichtung für betriebliche Altersvorsorge (§ 4c EStG)
+- [[Zinsschranke]] — Begrenzung des Zinsabzugs auf 30 % des EBITDA (§ 4h EStG)
+- [[Zinsvortrag]] — Vortrag nicht abziehbarer Zinsaufwendungen in Folgejahre (§ 4h EStG)
+- [[EBITDA-Vortrag]] — 5-jähriger Vortrag ungenutzten EBITDA-Abzugspotentials (§ 4h EStG)
+- [[Eigenkapitalquote]] — Konzern-Escape-Klausel der Zinsschranke (§ 4h EStG)
+- [[Nettozinsaufwendungen]] — Saldo aus Zinsaufwand und -ertrag, Basis der Zinsschranke (§ 4h EStG)
+- [[Besteuerungsinkongruenz]] — Steuerliche Fehlanpassung durch hybride Gestaltungen (§ 4k EStG)
+- [[Hybride Gestaltungen]] — Gestaltungen mit unterschiedlicher steuerlicher Behandlung in zwei Staaten (§ 4k EStG)
+- [[Sonderbetriebsausgaben]] — Aufwendungen eines Mitunternehmers für die Gesellschaft (§ 4i EStG)
+- [[Grundsätze ordnungsmäßiger Buchführung]] — GoB als Maßstab für steuerliche Gewinnermittlung, Maßgeblichkeitsprinzip (§ 5 EStG)
+- [[Rückstellung]] — Steuerliche Ansatzverbote und Bewertungsregeln für Rückstellungen (§ 5 EStG)
+- [[Rechnungsabgrenzungsposten]] — Aktive/passive RAP zur periodengerechten Gewinnermittlung (§ 5 EStG)
+- [[Bewertungseinheit]] — Hedge Accounting, Ausnahme vom Saldierungsverbot (§ 5 EStG)
+- [[Tonnagesteuer]] — Pauschalgewinnermittlung für Handelsschiffe nach Ladekapazität (§ 5a EStG)
+- [[Handelsschiff]] — Definition für Tonnagebesteuerung: internationaler Verkehr, Charterquote (§ 5a EStG)
+- [[Datenfernübertragung]] — E-Bilanz-Pflicht per XBRL-Übermittlung (§ 5b EStG)
+- [[Anschaffungskosten]] — Primärer Bewertungsmaßstab für entgeltlich erworbene Wirtschaftsgüter (§ 6 EStG)
+- [[Herstellungskosten]] — Bewertungsmaßstab für selbst hergestellte Wirtschaftsgüter, Wahlrecht bei Gemeinkosten (§ 6 EStG)
+- [[Absetzung für Abnutzung]] — Planmäßige Wertminderung abnutzbarer Wirtschaftsgüter (§ 6 EStG)
+- [[Geringwertige Wirtschaftsgüter]] — Sofortabzug ≤ 800 € oder Sammelposten 250–1.000 € (§ 6 Abs. 2/2a EStG)
+- [[Pensionsrückstellung]] — Steuerliche Rückstellung für Pensionsverpflichtungen nach § 6a EStG
+- [[Versorgungszusage]] — Schriftliche Pensionszusage als Voraussetzung für Pensionsrückstellungen
+- [[Pensionsanwartschaft]] — Künftiger Versorgungsanspruch, relevant für § 6a und Betriebsrentengesetz
+- [[Barwert]] — Gegenwartswert künftiger Leistungen, zentral für die Bewertung von Pensionsverpflichtungen
+- [[Rechnungszinsfuß]] — Zinssatz von 6 % für die Teilwertberechnung von Pensionsverpflichtungen
+- [[Biometrische Rechnungsgrundlagen]] — Versicherungsmathematische Annahmen für Pensionsrückstellungen
+- [[Stille Reserven]] — Differenz zwischen Buchwert und Veräußerungswert, übertragbar nach § 6b EStG
+- [[Reinvestitionsrücklage]] — Rücklage zur Übertragung stiller Reserven auf Ersatzwirtschaftsgüter
+- [[Reinvestitionsfrist]] — Frist für Ersatzanschaffung/-herstellung bei § 6b-Rücklagen
+- [[Grund und Boden]] — Begünstigtes Wirtschaftsgut für die Übertragung stiller Reserven nach § 6b EStG
+- [[Aufwuchs]] — Land- und forstwirtschaftlicher Aufwuchs als begünstigtes § 6b-Wirtschaftsgut
+- [[Buchwert]] — Steuerlicher Wertansatz nach § 6, Grundlage für den § 6b-Veräußerungsgewinn
+- [[Einnahmenüberschussrechnung]] — Gewinnermittlung nach § 4 Abs. 3, einbezogen über § 6c EStG
+- [[Gewinnermittlung nach Durchschnittssätzen]] — Land-/forstwirtschaftliche Gewinnermittlung mit § 6c-Bezug
+- [[Euroumrechnungsrücklage]] — Rücklage für Umrechnungsgewinne aus der Euro-Einführung nach § 6d EStG
+- [[Fondsetablierungskosten]] — Projekt- und Fondskosten, die nach § 6e den Anschaffungskosten zugerechnet werden
+- [[Investitionsphase]] — Projektphase, deren Aufwendungen bei § 6e zu Anschaffungskosten gehören können
+- [[AfA-Bemessungsgrundlage]] — Wertbasis für AfA, erhöhte Absetzungen und Sonderabschreibungen
+- [[Lineare AfA]] — Absetzung für Abnutzung in gleichen Jahresbeträgen nach § 7 Abs. 1 EStG
+- [[Degressive AfA]] — Absetzung in fallenden Jahresbeträgen vom Buchwert nach § 7 EStG
+- [[Leistungs-AfA]] — AfA nach tatsächlicher Leistung eines beweglichen Wirtschaftsguts
+- [[Gebäude-AfA]] — Besondere AfA-Regeln und Prozentsätze für Gebäude nach § 7 EStG
+- [[Außergewöhnliche technische oder wirtschaftliche Abnutzung]] — Zusätzliche AfA bei außergewöhnlicher Wertminderung
+- [[Absetzung für Substanzverringerung]] — AfA-ähnliche Absetzung bei substanzverzehrenden Betrieben
+- [[Erhöhte Absetzungen]] — Steuerliche Mehrabschreibungen mit gemeinsamen Regeln in § 7a EStG
+- [[Sonderabschreibungen]] — Zusätzliche Abschreibungen mit Einschränkungen und Dokumentation nach § 7a EStG
+- [[Begünstigungszeitraum]] — Zeitraum für erhöhte Absetzungen oder Sonderabschreibungen
+- [[Mietwohnungsneubau]] — Neue Mietwohnungen mit Sonderabschreibung nach § 7b EStG
+- [[Nutzung zu eigenen Wohnzwecken]] — Voraussetzung für Eigenheim- und Denkmalbegünstigungen
+- [[Bemessungsgrundlage]] — Kostenbasis für prozentuale Abzugsbeträge bei Eigenheimförderung
+- [[Abzugszeitraum]] — Zeitraum, in dem steuerliche Abzugsbeträge beansprucht werden können
+- [[Objektverbrauch]] — Beschränkung von Eigenheim-Begünstigungen auf eine bestimmte Objektzahl
+- [[Erhaltungsaufwand]] — Aufwand zur Erhaltung eines Gebäudes, teils über mehrere Jahre abziehbar
+- [[Schuldzinsenabzug]] — Sonderausgabenähnlicher Abzug objektbezogener Schuldzinsen
+- [[Verteilungszeitraum]] — Zeitraum für die jahresweise Verteilung begünstigter Aufwendungen
+- [[Gebäudegruppe]] — Als Einheit geschützte Gesamtanlage für § 7i- und § 11b-Begünstigungen
+- [[Verteilung von Erhaltungsaufwand]] — Steuerliche Streckungsoption für Erhaltungsaufwand nach §§ 11a, 11b EStG
+- [[Abzugsverbot]] — Gesetzliches Verbot des steuerlichen Abzugs bestimmter Ausgaben (§ 12 EStG)
+- [[Private Lebensführung]] — Nicht abzugsfähige Aufwendungen der persönlichen Sphäre (§ 12 EStG)
+- [[Personensteuer]] — Einkommensteuer und ähnliche Steuern; steuerlich nicht abzugsfähig (§ 12 Nr. 3 EStG)
+- [[Land- und Forstwirtschaft]] — Erste Einkunftsart des EStG; Landwirtschaft, Forstwirtschaft, Weinbau, Gartenbau
+- [[Vieheinheiten]] — Einheitliche Berechnungsgröße für Tierbestände nach Futterbedarf (§ 13 EStG)
+- [[Nebenbetrieb (LuF)]] — Dem Hauptbetrieb dienender Hilfsbetrieb innerhalb der LuF-Einkunftsart
+- [[Freibetrag Land- und Forstwirtschaft]] — 900-Euro-Freigrenze für LuF-Einkünfte (§ 13 Abs. 3 EStG)
+- [[Durchschnittssatzgewinn]] — Pauschalierte Gewinnermittlung für kleine LuF-Betriebe (§ 13a EStG)
+- [[Sondernutzung (LuF)]] — Besondere Nutzungsform (Weinbau, Obstbau) mit Pauschalgewinn 1.000 €/Nutzung
+- [[Sondergewinn (LuF)]] — Außerordentliche Erträge aus Veräußerungen/Entnahmen nach § 4 Abs. 3 (§ 13a EStG)
+- [[Gemeinschaftliche Tierhaltung]] — LuF-Tierhaltung in Genossenschaften/Gesellschaften unter § 13b-Voraussetzungen
+- [[Hauptberuflicher Landwirt]] — Landwirt, dessen Lebensunterhalt überwiegend aus LuF stammt (§ 13b EStG)
+- [[Eigentumswohnung]] — Wohnungseigentum, das mehreren Gebäude-Begünstigungen gleichgestellt wird
+- [[Schutzwürdige Kulturgüter]] — Kulturgüter mit sonderausgabenähnlichem Abzug nach § 10g EStG
+- [[Nationales Kulturgut]] — Bewegliche Kulturgüter im Verzeichnis national wertvollen Kulturgutes
+- [[Denkmal- und Archivpflege]] — Erforderlichkeits- und Abstimmungsmaßstab für § 10g-Maßnahmen
+- [[Investitionsabzugsbetrag]] — Vorweggenommener Abzug für künftige Investitionen kleiner und mittlerer Betriebe
+- [[Begünstigtes Wirtschaftsgut]] — Abnutzbares bewegliches Anlagegut für § 7g-Abzüge und Sonderabschreibungen
+- [[Gewinngrenze]] — 200.000-Euro-Grenze für § 7g-Investitionsabzugsbeträge und Sonderabschreibungen
+- [[Rückgängigmachung]] — Rückabwicklung steuerlicher Begünstigungen bei nachträglichem Wegfall der Voraussetzungen
+- [[Sanierungsgebiet]] — Förmlich festgelegtes Gebiet mit erhöhten Absetzungen nach § 7h EStG
+- [[Städtebaulicher Entwicklungsbereich]] — Entwicklungsbereich mit § 7h-Begünstigung für Gebäudemaßnahmen
+- [[Modernisierungs- und Instandsetzungsmaßnahmen]] — Begünstigte Gebäudemaßnahmen nach § 7h EStG
+- [[Bescheinigung der Gemeindebehörde]] — Nachweis für § 7h-Absetzungen und Förderzuschüsse
+- [[Zuschüsse]] — Fördermittel, die begünstigte Kosten nach § 7h und § 7i mindern
+- [[Baudenkmal]] — Denkmalgeschütztes Gebäude mit möglichen erhöhten Absetzungen nach § 7i EStG
+- [[Sinnvolle Nutzung eines Baudenkmals]] — Nutzungsvoraussetzung für begünstigte Denkmalmaßnahmen
+- [[Gebäudegruppe oder Gesamtanlage]] — Denkmalrechtlicher Kontext für § 7i-Begünstigungen
+- [[Denkmalschutzrechtliche Bescheinigung]] — Nachweisvoraussetzung für erhöhte Absetzungen nach § 7i
+- [[Weggefallene Vorschrift]] — Kennzeichnung aufgehobener Paragraphen ohne materiellen Regelungsinhalt
+- [[Zuflussprinzip]] — Einnahmen werden grundsätzlich im Jahr des Zuflusses erfasst (§ 11 EStG)
+- [[Abflussprinzip]] — Ausgaben werden grundsätzlich im Jahr der Zahlung abgesetzt (§ 11 EStG)
+- [[Regelmäßig wiederkehrende Einnahmen und Ausgaben]] — Jahreswechselregel für wirtschaftlich zugehörige Beträge
+- [[Nutzungsüberlassung]] — Vorauszahlungen für Nutzungen mit Verteilungsregeln nach § 11 EStG
+- [[Vorauszahlung]] — Vorausgeleistete Beträge, die zeitlich verteilt werden können oder müssen
+- [[Damnum oder Disagio]] — Marktüblicher Darlehensabschlag als Ausnahme von der Verteilungspflicht
+- [[Sanierungs- oder Entwicklungsförderungsmittel]] — Förderzuschüsse, die verteilbaren Erhaltungsaufwand mindern
+- [[Einnahmen]] — Zufließende Güter in Geld oder Geldeswert bei Überschusseinkunftsarten (§ 8 EStG)
+- [[Sachbezüge]] — Nicht in Geld bestehende Einnahmen mit Bewertung nach § 8 Abs. 2 EStG
+- [[Gutscheine und Geldkarten]] — Sachbezugsnahe Vorteile mit Abgrenzung zu Geldleistungen
+- [[Fahrtenbuch]] — Nachweisalternative zur pauschalen Bewertung privater Kfz-Nutzung
+- [[Listenpreis]] — Bemessungsgröße für die pauschale Kfz-Nutzung nach § 8 EStG
+- [[Doppelte Haushaltsführung]] — Beruflich veranlasste Zweitwohnung mit Bezug zu § 8 und § 9 EStG
+- [[Mahlzeitengestellung]] — Arbeitgebergestellte Mahlzeit mit Bewertung nach amtlichem Sachbezugswert
+- [[Sachbezugswert]] — Amtlicher Wert für bestimmte Arbeitnehmer-Sachbezüge
+- [[Rabattfreibetrag]] — Steuerfreier Jahresbetrag für bestimmte Personalrabatte nach § 8 Abs. 3 EStG
+- [[Zusätzlich zum ohnehin geschuldeten Arbeitslohn]] — Voraussetzung für bestimmte begünstigte Arbeitgeberleistungen
+- [[Veräußerungsgewinn]] — Betrag, um den der Veräußerungspreis (abzgl. Kosten) den Buchwert/Anschaffungskosten übersteigt
+- [[Teilbetrieb]] — Organisch geschlossener, selbständig lebensfähiger Unternehmensteil (§§ 14, 16 EStG)
+- [[Betriebsaufgabe]] — Einstellung des Betriebs mit Überführung der Wirtschaftsgüter ins Privatvermögen (§ 16 EStG)
+- [[Mitunternehmerschaft]] — Gesellschaft, bei der Gesellschafter als Mitunternehmer anzusehen sind (§§ 14, 15 EStG)
+- [[Sonderbetriebsvermögen]] — Wirtschaftsgüter eines Mitunternehmers im Dienst der Gesellschaft (§ 14 EStG)
+- [[Wirtschaftswert]] — Bewertungsgröße nach Bewertungsgesetz § 46, historische Grenze für LuF-Freibeträge
+- [[Weichender Erbe]] — Gesetzlicher Erbe eines LuF-Betriebs, der nicht zur Hofübernahme berufen ist (§ 14a EStG)
+- [[Hoferbfolge]] — Übergabe des landwirtschaftlichen Betriebs an Hoferben (§ 14a EStG)
+- [[Strukturverbesserung]] — Abgabe des LuF-Betriebs zur Verbesserung der Agrarstruktur (§ 14a Abs. 3 EStG)
+- [[Gewerbebetrieb]] — Selbständige nachhaltige Betätigung mit Gewinnerzielungsabsicht am allg. Wirtschaftsverkehr (§ 15 EStG)
+- [[Kleingewerbe]] — Praxisbegriff für kleine gewerbliche Tätigkeit mit EStG-, UStG- und GewStG-Bezug
+- [[Gewinnerzielungsabsicht]] — Subjektives Merkmal des Gewerbebetriebs: Absicht, dauerhaft Gewinn zu erzielen (§ 15 EStG)
+- [[Mitunternehmer]] — Gesellschafter mit Mitunternehmerinitiative und -risiko (§ 15 Abs. 1 EStG)
+- [[Gewerblich geprägte Personengesellschaft]] — PersG ohne gewerbliche Tätigkeit, aber mit ausschließlich haftenden Kapitalgesellschaften (§ 15 Abs. 3 EStG)
+- [[Sondervergütungen]] — Vergütungen eines Gesellschafters für Tätigkeit, Darlehen oder Nutzungsüberlassung (§ 15 Abs. 1 EStG)
+- [[Termingeschäfte]] — Finanzinstrumente mit aufgeschobener Erfüllung; Verluste begrenzt verrechenbar (§ 15 Abs. 4 EStG)
+- [[Verlustausgleichsverbot]] — Verbot der Verrechnung bestimmter Verluste mit anderen Einkünften (§§ 15, 15a, 15b EStG)
+- [[Kommanditist]] — Gesellschafter einer KG mit beschränkter Haftung (§ 15a EStG)
+- [[Negatives Kapitalkonto]] — Kapitalkonto mit Saldo unter null; begrenzt Verlustverrechnung des Kommanditisten
+- [[Verrechenbarer Verlust]] — Nicht ausgleichsfähiger Verlust des Kommanditisten, jährlich gesondert festgestellt (§ 15a EStG)
+- [[Einlageminderung]] — Entstehung/Erhöhung negativen Kapitalkontos durch Entnahmen (§ 15a Abs. 3 EStG)
+- [[Haftungsminderung]] — Minderung der im Handelsregister eingetragenen Haftungseinlage (§ 15a Abs. 3 EStG)
+- [[Gesonderte Feststellung]] — Eigener Feststellungsbescheid für verrechenbare Verluste nach §§ 15a, 15b EStG
+- [[Steuerstundungsmodell]] — Modellhafte Gestaltung zur Erzielung steuerlicher Verluste in der Anfangsphase (§ 15b EStG)
+- [[Modellhafte Gestaltung]] — Vorgefertigtes Konzept zur Verlustnutzung als Steuerstundungsmodell (§ 15b EStG)
+- [[Anfangsphase]] — Investitionsphase, in der Verlustquote für § 15b-Qualifikation berechnet wird
+- [[Besitzkonstitut]] — Eigentumsübertragung ohne körperliche Übergabe nach § 930 BGB (§ 15b Abs. 3a EStG)
+- [[Realteilung]] — Aufteilung einer Mitunternehmerschaft durch Übertragung von Wirtschaftsgütern (§ 16 Abs. 3 EStG)
+- [[Gemeiner Wert]] — Verkehrswert; Ansatz bei Betriebsaufgabe und bestimmten Entnahmen (§ 16 EStG)
+- [[Wesentliche Beteiligung]] — Beteiligung von mindestens 1 % am Kapital einer Kapitalgesellschaft (§ 17 EStG)
+- [[Verdeckte Einlage]] — Einlage eines Gesellschafters ohne Gegenleistung der Gesellschaft (§ 17 EStG)
+- [[Veräußerungsfreibetrag]] — Freibetrag von 9.060 € bei Veräußerungsgewinnen aus § 17 EStG
+- [[Nachträgliche Anschaffungskosten]] — Spätere Aufwendungen für Anteile (Einlagen, Darlehensverluste, Bürgschaften) nach § 17 Abs. 2a EStG
+- [[Selbständige Arbeit]] — Einkünfte aus freiberuflicher und sonstiger selbständiger Tätigkeit (§ 18 EStG)
+- [[Freiberufliche Tätigkeit]] — Selbständige Ausübung wissenschaftlicher, künstlerischer oder heilberuflicher Tätigkeit (§ 18 EStG)
+- [[Freier Beruf]] — Katalogberuf oder ähnlicher Beruf nach § 18 Abs. 1 Nr. 1 EStG
+- [[Sonstige selbständige Arbeit]] — Vergütungen für Testamentsvollstreckung, Vermögensverwaltung, Aufsichtsrat (§ 18 EStG)
+- [[Leitende und eigenverantwortliche Tätigkeit]] — Voraussetzung für freiberufliche Einstufung auch beim Einsatz fachkundiger Mitarbeiter
+- [[Betriebsveräußerungsgewinn]] — Gewinn aus Veräußerung des Betriebsvermögens bei selbständiger Arbeit (§ 18 Abs. 3 EStG)
+- [[Nichtselbständige Arbeit]] — Einkünfte aus Beschäftigung im Dienstverhältnis gegen Arbeitslohn (§ 19 EStG)
+- [[Vermögensbeteiligung]] — Arbeitnehmer-Beteiligung am Arbeitgeberunternehmen; bei § 19a aufgeschobene Besteuerung möglich
+- [[Aufgeschobene Besteuerung]] — § 19a: Besteuerung der Mitarbeiterbeteiligung erst bei Veräußerung, 15-Jahres-Ablauf oder Dienstverhältnisende
+- [[Lohnsteuerabzug]] — Einbehalt der Lohnsteuer durch den Arbeitgeber; bei § 19a Abs. 4 als sonstiger Bezug
+- [[Einkünfte aus Kapitalvermögen]] — Fünfte Einkunftsart: Dividenden, Zinsen, Veräußerungsgewinne; grundsätzlich Abgeltungsteuer
+- [[Abgeltungsteuer]] — 25-%-Quellensteuersatz auf Kapitaleinkünfte; Tatsächlicher-Werbungskosten-Abzug ausgeschlossen
+- [[Sparer-Pauschbetrag]] — 1.000 € (2.000 € bei Zusammenveranlagung) pauschal statt tatsächlicher Werbungskosten bei § 20
+- [[Dividende]] — Gewinnausschüttung einer Kapitalgesellschaft an Anteilseigner; zählt zu § 20 Abs. 1 Nr. 1
+- [[Verdeckte Gewinnausschüttung]] — Vorteilszuwendung an Gesellschafter außerhalb Gewinnverteilungsbeschluss; steuerbar nach § 20 Abs. 1 Nr. 1
+- [[Einkünfte aus Vermietung und Verpachtung]] — Sechste Einkunftsart: Vermietung von Immobilien, Sachinbegriffen, Rechten; 66-%-Grenze
+- [[Ortsübliche Marktmiete]] — Vergleichsmaßstab für verbilligte Wohnungsvermietung (66-% und 50-%-Schwelle nach § 21 Abs. 2)
+- [[Verbilligte Vermietung]] — Miete unter ortsüblichem Niveau; unter 50 % Aufteilung, ab 66 % voller Werbungskostenabzug
+- [[Sonstige Einkünfte]] — Siebte Auffang-Einkunftsart: Leibrenten, private Veräußerungsgeschäfte, Leistungseinkünfte
+- [[Leibrente]] — Lebenslange Rente; gesetzlich nach Besteuerungsanteil, privat nach Ertragsanteil besteuert
+- [[Besteuerungsanteil der Rente]] — Steuerpflichtiger Anteil gesetzlicher Renten; richtet sich nach Rentenbeginnjahr (50 % bis 100 % ab 2058)
+- [[Ertragsanteil]] — Steuerpflichtiger Zinsteil privater Leibrenten; richtet sich nach Lebensalter bei Rentenbeginn
+- [[Steuerfreier Rentenbetrag]] — Einmalig fixierter steuerfreier Euro-Betrag der gesetzlichen Rente; bleibt nominal konstant
+- [[Rentenbezugsmitteilung]] — Pflichtmeldung der Rentenversicherungsträger an zentrale Stelle (§ 22a); Sanktion 10 €/Monat
+- [[Privates Veräußerungsgeschäft]] — Steuerbarer Verkauf von Privatvermögen innerhalb der Spekulationsfrist; als sonstige Einkünfte
+- [[Spekulationsfrist]] — 10 Jahre (Grundstücke) / 1 Jahr (sonstige WG); nach Ablauf steuerfreier Veräußerungsgewinn
+- [[Selbstnutzungsausnahme]] — Kein § 23-Geschäft bei Eigennutzung Immobilie (gesamt oder letztes Jahr + 2 Vorjahre)
+- [[Entschädigung für entgangene Einnahmen]] — Ersatz für entgangene Einnahmen nach § 24 Nr. 1a; der ursprünglichen Einkunftsart zugeordnet
+- [[Altersentlastungsbetrag]] — Prozentualer Abzug für Steuerpflichtige ab 64 Jahren; Kohortenprinzip; läuft auf 0 bis 2058 aus
+- [[Kohortenprinzip]] — Einmalig festgelegter Prozentsatz nach dem Eintrittsjahr gilt für die gesamte Dauer (§ 22, § 24a)
+- [[Entlastungsbetrag für Alleinerziehende]] — 4.260 € + 240 € je Kind; für Alleinerzieher ohne Haushaltsgemeinschaft
+- [[Haushaltsgemeinschaft]] — Gemeinsames Wirtschaften mit volljähriger Person; schließt § 24b-Entlastungsbetrag aus
+- [[Veranlagungszeitraum]] — Das Kalenderjahr als Grundeinheit der Einkommensteuerveranlagung (§ 25 Abs. 1)
+- [[Steuererklärungspflicht]] — Eigenhändige Unterschrift; ELSTER-Pflicht bei LuF, Gewerbebetrieb, selbständiger Arbeit
+- [[Zusammenveranlagung]] — Gemeinsame ESt-Erklärung von Ehegatten nach § 26b; beide müssen unterschreiben
+- [[Betriebsveranstaltung]] — Veranstaltung auf betrieblicher Ebene; Freibetrag 110 € je Veranstaltung/Arbeitnehmer (§ 19 EStG)
+- [[Sanierungsgelder]] — Sonderzahlungen an Pensionskassen anlässlich Systemumstellung; kein Arbeitslohn (§ 19 EStG)
+- [[Energiepreispauschale]] — Einmalige staatliche Pauschale; bei Versorgungsbezügen als Einnahme zu erfassen (§ 19 Abs. 3 EStG)
+
+- [[Ehegattensplitting]] — Begriff aus EStG §§ 26-32a
+- [[Einzelveranlagung]] — Begriff aus EStG §§ 26-32a
+- [[Existenzminimum des Kindes]] — Begriff aus EStG §§ 26-32a
+- [[Familienleistungsausgleich]] — Begriff aus EStG §§ 26-32a
+- [[Fortgesetzte Gütergemeinschaft]] — Begriff aus EStG §§ 26-32a
+- [[Freibetrag für Betreuungs- und Erziehungs- oder Ausbildungsbedarf]] — Begriff aus EStG §§ 26-32a
+- [[Gemeinsame Zurechnung von Einkünften]] — Begriff aus EStG §§ 26-32a
+- [[Gesamtgut]] — Begriff aus EStG §§ 26-32a
+- [[Günstigerprüfung beim Familienleistungsausgleich]] — Begriff aus EStG §§ 26-32a
+- [[Identifikationsnummer des Kindes]] — Begriff aus EStG §§ 26-32a
+- [[Kind]] — Begriff aus EStG §§ 26-32a
+- [[Kinderfreibetrag]] — Begriff aus EStG §§ 26-32a
+- [[Kindergeld]] — Begriff aus EStG §§ 26-32a
+- [[Kindschaftsverhältnis]] — Begriff aus EStG §§ 26-32a
+- [[Pflegekind]] — Begriff aus EStG §§ 26-32a
+- [[Progressionszone]] — Begriff aus EStG §§ 26-32a
+- [[Reichensteuer]] — Begriff aus EStG §§ 26-32a
+- [[Spitzensteuersatz]] — Begriff aus EStG §§ 26-32a
+- [[Splitting-Verfahren]] — Begriff aus EStG §§ 26-32a
+- [[Unanfechtbarkeit des Steuerbescheids]] — Begriff aus EStG §§ 26-32a
+- [[Veranlagungsart]] — Begriff aus EStG §§ 26-32a
+- [[Verlustübergang zwischen Veranlagungsarten]] — Begriff aus EStG §§ 26-32a
+- [[Wirtschaftliches Tragen von Aufwendungen]] — Begriff aus EStG §§ 26-32a
+- [[Überlebender Ehegatte]] — Begriff aus EStG §§ 26-32a
+
+- [[Ausbildungsfreibetrag]] — Begriff aus EStG §§ 32b-33a
+- [[Ausländische Einkünfte]] — Begriff aus EStG §§ 32b-33a
+- [[Ausländische Steueranrechnung]] — Begriff aus EStG §§ 32b-33a
+- [[Behinderungsbedingte Fahrtkostenpauschale]] — Begriff aus EStG §§ 32b-33a
+- [[Besonderer Steuersatz]] — Begriff aus EStG §§ 32b-33a
+- [[Betrachtungszeitraum]] — Begriff aus EStG §§ 32b-33a
+- [[Durchschnittliche Einkünfte]] — Begriff aus EStG §§ 32b-33a
+- [[Eigene Einkünfte und Bezüge]] — Begriff aus EStG §§ 32b-33a
+- [[Fiktive tarifliche Einkommensteuer]] — Begriff aus EStG §§ 32b-33a
+- [[Gesetzlich unterhaltsberechtigte Person]] — Begriff aus EStG §§ 32b-33a
+- [[Grad der Behinderung]] — Begriff aus EStG §§ 32b-33a
+- [[Günstigerprüfung für Kapitaleinkünfte]] — Begriff aus EStG §§ 32b-33a
+- [[Identifikationsnummer der unterhaltenen Person]] — Begriff aus EStG §§ 32b-33a
+- [[Kapitalertragsteuer]] — Begriff aus EStG §§ 32b-33a
+- [[Kapitalerträge]] — Begriff aus EStG §§ 32b-33a
+- [[Lohnersatzleistungen]] — Begriff aus EStG §§ 32b-33a
+- [[Nahe stehende Person]] — Begriff aus EStG §§ 32b-33a
+- [[Progressionsvorbehalt]] — Begriff aus EStG §§ 32b-33a
+- [[Prozesskosten]] — Begriff aus EStG §§ 32b-33a
+- [[Rückgängigmachung einer Tarifermäßigung]] — Begriff aus EStG §§ 32b-33a
+- [[Sozialleistungsdatenübermittlung]] — Begriff aus EStG §§ 32b-33a
+- [[Tarifermäßigung für Land- und Forstwirtschaft]] — Begriff aus EStG §§ 32b-33a
+- [[Unterhaltshöchstbetrag]] — Begriff aus EStG §§ 32b-33a
+- [[Unternehmer in Schwierigkeiten]] — Begriff aus EStG §§ 32b-33a
+- [[Zeitanteilige Kürzung]] — Begriff aus EStG §§ 32b-33a
+- [[Zumutbare Belastung]] — Begriff aus EStG §§ 32b-33a
+- [[Zwangsläufigkeit]] — Begriff aus EStG §§ 32b-33a
+
+- [[Behinderten-Pauschbetrag]] — Pauschbetrag für behinderungsbedingte Aufwendungen nach § 33b
+- [[Hilflosigkeit]] — Voraussetzung für den erhöhten Pauschbetrag nach § 33b
+- [[Hinterbliebenen-Pauschbetrag]] — 370-Euro-Pauschbetrag bei laufenden Hinterbliebenenbezügen
+- [[Übertragung von Pauschbeträgen für Kinder]] — Übertragung kindbezogener Pauschbeträge auf Eltern
+- [[Pflege-Pauschbetrag]] — Pauschbetrag für persönliche Pflege ohne Einnahmen
+- [[Außerordentliche Einkünfte]] — Begünstigte Einkünfte nach § 34 mit besonderer Tarifberechnung
+- [[Fünftelregelung]] — Tarifermäßigung für außerordentliche Einkünfte durch Fünftelberechnung
+- [[Vergütung für mehrjährige Tätigkeit]] — Vergütung für Tätigkeiten über mehrere Veranlagungszeiträume
+- [[Ermäßigter Steuersatz nach § 34 Abs. 3]] — Einmalige Begünstigung bestimmter Veräußerungs- oder Aufgabegewinne
+- [[Thesaurierungsbegünstigung]] — Begünstigte Besteuerung nicht entnommener betrieblicher Gewinne
+- [[Nicht entnommener Gewinn]] — Gewinn nach § 34a abzüglich Entnahmen/Einlagen-Saldo, zuzüglich Gewerbesteuer
+- [[Begünstigungsbetrag]] — Auf Antrag nach § 34a begünstigter Gewinn
+- [[Nachversteuerungspflichtiger Betrag]] — Fortgeschriebener Betrag für spätere Nachversteuerung
+- [[Nachversteuerungsbetrag]] — Betrag schädlicher Entnahmen mit 25 Prozent Nachsteuer
+- [[Mitunternehmeranteil]] — Beteiligung mit besonderen § 34a-Antrags- und Übertragungsregeln
+- [[Betriebsveräußerung oder Betriebsaufgabe]] — Auslöser einer Nachversteuerung nach § 34a
+- [[Außerordentliche Holznutzungen]] — Holznutzungen aus Zwang oder höherer Gewalt
+- [[Kalamitätsnutzungen]] — Außerordentliche Holznutzungen infolge höherer Gewalt
+- [[Nutzungssatz]] — Forstlicher Vergleichswert für § 34b-Tarifermäßigung
+- [[Holznutzungsnachweis]] — Mengenmäßiger Nachweis ordentlicher und außerordentlicher Holznutzungen
+- [[Anrechnung ausländischer Steuer]] — Anrechnung ausländischer Einkommensteuer auf deutsche Einkommensteuer
+- [[Abzug ausländischer Steuer]] — Alternativer Abzug ausländischer Steuer bei den Einkünften
+- [[Pauschalierung ausländischer Steuer]] — Erlass oder Pauschbetrag für ausländische Steuer nach § 34c
+- [[Ausländische Betriebsstätte]] — Ausländischer Anknüpfungspunkt für betriebliche Einkünfte
+- [[Ausländischer ständiger Vertreter]] — Vertreter im Ausland als Bezugspunkt gewerblicher Einkünfte
+- [[Ausländisches unbewegliches Vermögen]] — Belegenheitskriterium für ausländische Einkünfte
+- [[Ausländische öffentliche Kassen]] — Öffentliche Kassen im Ausland für Bezüge aus nichtselbständiger Arbeit
+- [[Steuerermäßigung für eigengenutztes Wohneigentum]] — Kinderbezogene Steuerermäßigung bei alten Wohnungsbau-Begünstigungen
+- [[Erhöhte Absetzungen nach § 7b]] — Wohnungsbau-Absetzungen als Voraussetzung für § 34f
+- [[Steuerbegünstigung nach § 10e]] — Alte Wohneigentumsbegünstigung, an die § 34f anknüpft
+- [[Haushaltszugehörigkeit des Kindes]] — Voraussetzung für kindbezogene Steuerermäßigungen nach § 34f
+- [[Objektbeschränkung]] — Begrenzung der § 34f-Steuerermäßigung auf ein Objekt
+
+- [[Abrechnung der Einkommensteuer]] — Ermittlung von Nachzahlung oder Erstattungsüberschuss nach Anrechnung.
+- [[Anpassung von Vorauszahlungen]] — Nachträgliche Anpassung an die voraussichtlich entstehende Einkommensteuer.
+- [[Anrechenbarkeit der Kapitalertragsteuer]] — Voraussetzungen für volle oder beschränkte Anrechnung bestimmter Kapitalertragsteuer.
+- [[Begünstigtes Objekt]] — Eigenes zu Wohnzwecken genutztes Gebäude in EU/EWR, das älter als zehn Jahre ist.
+- [[Beiträge und Spenden]] — Zuwendungen, die in § 34g anteilig direkt die tarifliche Einkommensteuer mindern.
+- [[Betriebsstättenfinanzamt]] — Zuständiges Finanzamt für Genehmigung, Anmeldung und Abführung der Pauschsteuer.
+- [[Einkommensteuer-Vorauszahlung]] — Quartalsweise Vorauszahlungen auf die voraussichtliche Einkommensteuer.
+- [[Empfängerunterrichtung]] — Pflicht zur Information des Empfängers über die übernommene Steuer.
+- [[Energetische Maßnahmen]] — Begünstigte Sanierungsmaßnahmen an selbstgenutzten eigenen Gebäuden.
+- [[Energieberater]] — BAFA-zugelassener Berater mit 50-Prozent-Ermäßigung für Beratungsaufwand.
+- [[Entstehung der Einkommensteuer]] — Entstehung der Einkommensteuer mit Ablauf des Veranlagungszeitraums.
+- [[Erbschaftsteuer]] — Festgesetzte Erbschaftsteuer als Verhältnisgröße für die Einkommensteuerermäßigung.
+- [[Ermäßigungshöchstbetrag]] — Obergrenze der § 35-Steuerermäßigung anhand positiver gewerblicher Einkünfte.
+- [[Erwerb von Todes wegen]] — Erbschaftsteuerlicher Erwerb, der zugleich einkommensteuerlich erfasste Einkünfte enthält.
+- [[Fachunternehmen]] — Ausführendes Unternehmen, dessen Bescheinigung Voraussetzung der Förderung ist.
+- [[Förderausschluss]] — Ausschluss der § 35c-Ermäßigung bei bestimmten anderen Förderungen oder Abzügen.
+- [[Forschungszulage]] — Festgesetzte Zulage, die nach § 36 auf die Einkommensteuer angerechnet wird.
+- [[Geschenke]] — Geschenke im Sinne des § 4 Abs. 5 Satz 1 Nr. 1 als mögliche § 37b-Zuwendungen.
+- [[Gewerbesteuer-Anrechnung]] — Anrechnung des Gewerbesteuer-Messbetrags auf die tarifliche Einkommensteuer.
+- [[Gewerbesteuer-Messbetrag]] — Messbetrag als Berechnungsbasis für die Steuerermäßigung nach § 35.
+- [[Gewerbliche Einkünfte]] — Der Gewerbesteuer unterliegende Gewinne und Gewinnanteile für § 35 EStG.
+- [[Handwerkerleistungen]] — Renovierungs-, Erhaltungs- und Modernisierungsmaßnahmen mit begrenzter Steuerermäßigung.
+- [[Haushaltsnahe Beschäftigungsverhältnisse]] — Beschäftigungsverhältnisse im Privathaushalt mit Steuerermäßigung nach § 35a.
+- [[Haushaltsnahe Dienstleistungen]] — Dienstleistungen im Haushalt mit 20-Prozent-Ermäßigung bis zum Höchstbetrag.
+- [[Kurssicherungsgeschäfte]] — Absicherungsgeschäfte, die das Wertänderungsrisiko schädlich mindern können.
+- [[Lohnsteuer-Anmeldung]] — Anmeldung und Abführung der pauschalen Einkommensteuer als Lohnsteuer.
+- [[Mindesthaltedauer]] — 45-Tage-Haltedauer rund um die Fälligkeit der Kapitalerträge.
+- [[Mindestvorauszahlung]] — Grenzen, unter denen Vorauszahlungen nur eingeschränkt festgesetzt werden.
+- [[Mindestwertänderungsrisiko]] — Erforderliches wirtschaftliches Kursrisiko von mindestens 70 Prozent.
+- [[Pauschalierung bei Sachzuwendungen]] — Einheitliche 30-Prozent-Pauschalsteuer für bestimmte betriebliche Sachzuwendungen.
+- [[Pauschalierung der Einkommensteuer durch Dritte]] — Pauschale Besteuerung bestimmter Sachprämien durch das gewährende Unternehmen.
+- [[Pauschsteuersatz]] — Steuersatz von 2,25 Prozent für § 37a-Sachprämien.
+- [[Pflege- und Betreuungsleistungen]] — Haushaltsvergleichbare Pflege- und Betreuungsleistungen im Rahmen des § 35a.
+- [[Politische Parteien]] — Parteien im Sinne des Parteiengesetzes als begünstigte Empfänger von Beiträgen und Spenden.
+- [[Sachprämien]] — Prämien nach § 3 Nr. 38, deren nicht steuerfreier Teil pauschal besteuert werden kann.
+- [[Sachzuwendungen]] — Nicht in Geld bestehende betriebliche Zuwendungen und Geschenke.
+- [[Steuerabzug]] — Durch Abzug erhobene Einkommensteuer, die unter Voraussetzungen angerechnet wird.
+- [[Steuerermäßigung bei Erbschaftsteuerbelastung]] — Entlastung, wenn Einkünfte bereits als Erwerb von Todes wegen der Erbschaftsteuer unterlagen.
+- [[Steuerermäßigung für Parteispenden]] — Steuerermäßigung für Zuwendungen an politische Parteien und wahlteilnehmende Vereine.
+- [[Tilgung der Einkommensteuer]] — Anrechnung von Vorauszahlungen, Steuerabzug und Forschungszulage auf die Einkommensteuer.
+- [[Unbare Zahlung]] — Rechnung und Zahlung auf das Konto des Leistungserbringers als Anspruchsvoraussetzung.
+- [[Vereine ohne Parteicharakter]] — Wahlteilnehmende Vereinigungen ohne Parteicharakter als begünstigte Empfänger.
+- [[Vorauszahlungsbescheid]] — Bescheid des Finanzamts über Höhe und Fälligkeit der Vorauszahlungen.
+- [[Vorauszahlungszeitpunkte]] — 10. März, 10. Juni, 10. September und 10. Dezember als Zahlungstermine.
+- [[Wirtschaftlicher Eigentümer]] — Person, die während der Mindesthaltedauer wirtschaftliches Eigentum an Anteilen hält.
+- [[Zehntausend-Euro-Grenze]] — Ausschlussgrenze je Empfänger und Wirtschaftsjahr oder je einzelner Zuwendung.
+
+- [[Antragsgrenze von 600 Euro]] — Mindestgrenze für bestimmte Anträge auf Freibetrag nach § 39a.
+- [[Arbeitslohn]] — Vergütung aus dem Dienstverhältnis als Bemessungsgrundlage des Lohnsteuerabzugs.
+- [[Ausländischer Verleiher]] — Verleiher, der Arbeitnehmer gewerbsmäßig zur Arbeitsleistung im Inland überlässt.
+- [[Bescheinigung für den Lohnsteuerabzug]] — Papier- oder Ersatzbescheinigung, wenn elektronische Merkmale nicht bereitgestellt werden.
+- [[Elektronische Lohnsteuerabzugsmerkmale]] — Elektronisch bereitgestellte Besteuerungsgrundlagen für den Lohnsteuerabzug.
+- [[ELStAM-Sperre]] — Sperrung des Arbeitgeberabrufs elektronischer Lohnsteuerabzugsmerkmale.
+- [[Erhöhungsbetrag für Alleinerziehende]] — Zusätzlicher Entlastungsbetrag nach § 24b, der im Lohnsteuerabzug als Freibetrag relevant sein kann.
+- [[Freibetrag im Lohnsteuerabzugsverfahren]] — Vom Arbeitslohn abzuziehender Freibetrag, den das Finanzamt auf Antrag ermittelt.
+- [[Hinzurechnungsbetrag]] — Betrag, der beim Lohnsteuerabzug ergänzend zum Arbeitslohn hinzugerechnet werden kann.
+- [[Identifikationsnummer]] — Steuerliche Identifikationsnummer als Voraussetzung für die Bildung von Lohnsteuerabzugsmerkmalen.
+- [[Inländischer Arbeitgeber]] — Arbeitgeber mit inländischem Anknüpfungspunkt oder aufnehmendes Unternehmen bei Arbeitnehmerentsendung.
+- [[Jahresarbeitslohn]] — Arbeitslohn, den der Arbeitnehmer im Kalenderjahr bezieht.
+- [[Jahreslohnsteuer]] — Lohnsteuer, die nach dem im Kalenderjahr bezogenen Jahresarbeitslohn bemessen wird.
+- [[Kinderfreibeträge als Lohnsteuerabzugsmerkmal]] — Zähler für Kinderfreibeträge, der beim Lohnsteuerabzug berücksichtigt wird.
+- [[Laufender Arbeitslohn]] — Arbeitslohn, der dem Kalenderjahr des endenden Lohnzahlungszeitraums zugeordnet wird.
+- [[Lohnsteuer]] — Einkommensteuer auf Einkünfte aus nichtselbständiger Arbeit, die durch Abzug vom Arbeitslohn erhoben wird.
+- [[Lohnsteuerabzugsmerkmale]] — Für den Lohnsteuerabzug gebildete Besteuerungsgrundlagen wie Steuerklasse und Freibeträge.
+- [[Lohnsteuerklassen]] — Einreihung von Arbeitnehmern in Steuerklassen für die Durchführung des Lohnsteuerabzugs.
+- [[Lohnzahlungszeitraum]] — Zeitraum, für den laufender Arbeitslohn gezahlt und Lohnsteuer berechnet wird.
+- [[Negativsumme der Einkünfte]] — Negative Summe bestimmter Einkünfte, die als Freibetragsbestandteil berücksichtigt werden kann.
+- [[Sonstige Bezüge]] — Nicht laufend gezahlter Arbeitslohn, der im Zuflussjahr lohnsteuerlich erfasst wird.
+- [[Steuerklasse I]] — Lohnsteuerklasse für ledige, geschiedene, verwitwete oder beschränkt steuerpflichtige Arbeitnehmer ohne III/IV-Voraussetzungen.
+- [[Steuerklasse II]] — Lohnsteuerklasse für Arbeitnehmer mit Entlastungsbetrag für Alleinerziehende.
+- [[Steuerklasse VI]] — Lohnsteuerklasse für zweite und weitere Dienstverhältnisse sowie Fälle ohne Merkmale.
+- [[Steuerklassenkombination III-V]] — Kombination für Ehegatten, bei der ein Ehegatte III und der andere V wählt.
+- [[Wohnsitzfinanzamt]] — Finanzamt des Wohnsitzes, zuständig für bestimmte Lohnsteuerabzugsmerkmale unbeschränkt Steuerpflichtiger.
+- [[Zweites Dienstverhältnis]] — Weiteres Dienstverhältnis, für das Freibeträge und korrespondierende Hinzurechnungsbeträge relevant sein können.
+
+- [[Abrufberechtigung des Arbeitgebers]] — Berechtigung des Arbeitgebers, ELStAM für den Arbeitnehmer abzurufen.
+- [[Aufzeichnungspflichten beim Lohnsteuerabzug]] — Pflichten des Arbeitgebers zur Dokumentation der Lohnsteuerdaten.
+- [[Aushilfskräfte in der Land- und Forstwirtschaft]] — Sonderpauschalierung für saisonale Aushilfskräfte in LuF-Betrieben.
+- [[Außenprüfung]] — Prüfungsverfahren, in dem Lohnkonten und Unterlagen elektronisch bereitzustellen sind.
+- [[Besondere Bescheinigung für den Lohnsteuerabzug]] — Bescheinigung des Finanzamts für Fälle ohne elektronische Merkmale.
+- [[Einbehaltung der Lohnsteuer]] — Berechnung und Einbehaltung der Lohnsteuer bei laufendem Arbeitslohn und sonstigen Bezügen.
+- [[Einheitliche Pauschsteuer]] — Pauschalabgabe einschließlich Lohnsteuer, Solidaritätszuschlag und Kirchensteuer bei Minijobs.
+- [[Elektronische Bereitstellung von Lohnunterlagen]] — Pflicht zur elektronischen Bereitstellung aufzeichnungs- und aufbewahrungspflichtiger Daten.
+- [[ELStAM-Bekanntgabe]] — Bekanntgabe elektronischer Lohnsteuerabzugsmerkmale an den Arbeitnehmer.
+- [[ELStAM-Datenbank]] — Datenbestand beim Bundeszentralamt für Steuern für elektronische Lohnsteuerabzugsmerkmale.
+- [[Faktor]] — Multiplikator, der die Summe der Lohnsteuer bei Steuerklasse IV an die voraussichtliche Einkommensteuer annähert.
+- [[Faktorverfahren]] — Verfahren für Ehegatten mit Steuerklasse IV und Faktor anstelle der Kombination III-V.
+- [[Geringfügige Beschäftigung]] — Minijob-Kontext mit besonderer pauschaler Lohnsteuer nach § 40a.
+- [[Gruppenunfallversicherung]] — Unfallversicherung mit pauschalierungsfähigen Beiträgen unter bestimmten Grenzen.
+- [[Hauptarbeitsverhältnis]] — Arbeitsverhältnis, für das die vorrangigen Lohnsteuerabzugsmerkmale gelten.
+- [[Kurzfristige Beschäftigung]] — Gelegentliche Beschäftigung mit begrenzter Dauer und Stundenlohn-/Tageslohngrenzen.
+- [[Lohnkonto]] — Vom Arbeitgeber zu führende Aufzeichnung über Arbeitslohn und Lohnsteuerabzug.
+- [[Lohnsteuerabzug bei beschränkt Steuerpflichtigen]] — Früherer Regelungskontext des weggefallenen § 39d.
+- [[Lohnsteuerabzug ohne Lohnsteuerabzugsmerkmale]] — Einbehaltung der Lohnsteuer, wenn ELStAM oder Bescheinigung fehlen.
+- [[Nacherhebung von Lohnsteuer]] — Nachträgliche pauschale Erhebung bei vorschriftswidrig nicht einbehaltener Lohnsteuer.
+- [[Pauschalierung bei Zukunftssicherungsleistungen]] — Pauschale Lohnsteuer für bestimmte Beiträge zur Zukunftssicherung.
+- [[Pauschalierung der Lohnsteuer]] — Erhebung der Lohnsteuer mit Pauschsteuersätzen in besonderen Fällen.
+- [[Pauschalierung für Teilzeitbeschäftigte]] — Pauschale Lohnsteuer für kurzfristige oder geringfügige Beschäftigung.
+- [[Permanenter Lohnsteuer-Jahresausgleich]] — Laufender innerjähriger Ausgleich von Lohnsteuer bei besonderer Arbeitgeberzulassung.
+- [[Referenzdatum des Arbeitgebers]] — Vom Arbeitgeber zu meldendes Datum für Beginn oder Ende des Dienstverhältnisses im ELStAM-Verfahren.
+- [[Sonstige Bezüge in größerer Zahl]] — Pauschalierungsfall bei vielen Empfängern sonstiger Bezüge.
+- [[Sonstiger Bezug]] — Nicht laufender Arbeitslohn, dessen Lohnsteuer nach besonderen Jahreslohnsteuerregeln ermittelt wird.
+- [[Steuerklassenkombination IV-IV mit Faktor]] — Lohnsteuerklassenwahl, die die voraussichtliche Einkommensteuer proportional verteilt.
+- [[Steuerübernahme durch den Arbeitgeber]] — Arbeitgeber trägt die pauschale Lohnsteuer und ist Steuerschuldner.
+- [[Teillohnzahlungszeitraum]] — Verkürzter Lohnzahlungszeitraum mit taggenauer Lohnsteuerberechnung.
+- [[Unverschuldete Nichtverfügbarkeit der ELStAM]] — Vorübergehender Fall, in dem der Arbeitgeber bekannte Merkmale befristet weiter anwenden darf.
+- [[Voraussichtliche Einkommensteuer]] — Prognosegröße zur Berechnung des Faktors im Faktorverfahren.
+- [[Vorsorgepauschale]] — Pauschale Berücksichtigung bestimmter Vorsorgeaufwendungen im Lohnsteuerabzug.
+
+- [[Abführung der Lohnsteuer]] — Zahlung der einbehaltenen und übernommenen Lohnsteuer an das Betriebsstättenfinanzamt.
+- [[Abschluss des Lohnsteuerabzugs]] — Abschluss des Lohnkontos bei Beendigung des Dienstverhältnisses oder Jahresende.
+- [[Änderung des Lohnsteuerabzugs]] — Nachträgliche Erstattung oder Einbehaltung bei geänderten Merkmalen oder Fehlern.
+- [[Anrufungsauskunft]] — Verbindlichkeitsnahe Auskunft des Betriebsstättenfinanzamts zur Anwendung der Lohnsteuerregeln im Einzelfall.
+- [[Anzeige an das Betriebsstättenfinanzamt]] — Mitteilungspflicht bei nicht korrigierbarem fehlerhaftem Lohnsteuerabzug.
+- [[Arbeitgeberhaftung für Lohnsteuer]] — Haftung des Arbeitgebers für einzubehaltende, abzuführende oder zu Unrecht erstattete Lohnsteuer.
+- [[Arbeitnehmerauskunft in der Lohnsteuerprüfung]] — Auskunfts- und Vorlagepflichten von Arbeitnehmern im Rahmen der Lohnsteuer-Außenprüfung.
+- [[Ausgleichsjahr]] — Kalenderjahr, für das der Arbeitgeber den Lohnsteuer-Jahresausgleich durchführt.
+- [[Ausschluss vom Lohnsteuer-Jahresausgleich]] — Tatbestände, bei denen der Arbeitgeber den Jahresausgleich nicht durchführen darf.
+- [[Beteiligter im Lohnsteuerverfahren]] — Person oder Stelle, die eine Anrufungsauskunft beantragen kann.
+- [[Betretungsrecht bei Lohnsteuer-Nachschau]] — Befugnis zum Betreten von Geschäfts- und Arbeitsräumen während üblicher Zeiten.
+- [[Dividenden]] — Kapitalerträge aus Aktien und Anteilen, die dem Steuerabzug unterliegen können.
+- [[Elektronische Lohnsteuer-Anmeldung]] — Datenfernübertragung der Lohnsteuer-Anmeldung nach amtlich vorgeschriebenem Datensatz.
+- [[Elektronische Lohnsteuerbescheinigung]] — Nach Abschluss des Lohnkontos elektronisch zu übermittelnde Lohnsteuerdaten.
+- [[Erstattung von Lohnsteuer]] — Korrektur zu viel erhobener Lohnsteuer durch den Arbeitgeber.
+- [[Erstattungsbetrag beim Jahresausgleich]] — Differenz zwischen einbehaltener Lohnsteuer und Jahreslohnsteuer.
+- [[Gemeinsame Prüfung mit Rentenversicherung]] — Gleichzeitige Durchführung von Lohnsteuer-Außenprüfung und Prüfung nach SGB IV.
+- [[Genussscheine]] — Kapitalinstrumente, deren Erträge als Kapitalerträge mit Steuerabzug erfasst werden können.
+- [[Gesamtschuldnerschaft bei Lohnsteuer]] — Arbeitgeber und Arbeitnehmer als Gesamtschuldner im Haftungsumfang.
+- [[Geschäftsleitungsfinanzamt]] — Finanzamt der inländischen Geschäftsleitung bei mehreren Betriebsstättenfinanzämtern.
+- [[Großbuchstaben im Lohnkonto]] — Kennbuchstaben wie U, S, M oder F für besondere Lohnsteuerbescheinigungsdaten.
+- [[Haftung bei Arbeitnehmerüberlassung]] — Haftung des Entleihers bei gewerbsmäßiger Arbeitnehmerüberlassung.
+- [[Haftungsbescheid]] — Verwaltungsakt zur Geltendmachung von Haftung, soweit kein Ausnahmefall greift.
+- [[Inländische Kapitalerträge]] — Kapitalerträge mit Inlandsbezug, die im Katalog des § 43 dem Steuerabzug unterliegen.
+- [[Investmenterträge]] — Erträge aus Investmentfonds, die unter § 43 dem Steuerabzug unterliegen können.
+- [[Kapitalerträge mit Steuerabzug]] — Katalog von Kapitalerträgen, bei denen Steuerabzug vorzunehmen ist.
+- [[Lohnsteuer-Anmeldungszeitraum]] — Zeitraum für Anmeldung und Abführung der Lohnsteuer: Monat, Quartal oder Jahr.
+- [[Lohnsteuer-Außenprüfung]] — Außenprüfung der Einbehaltung, Übernahme und Abführung der Lohnsteuer.
+- [[Lohnsteuerbescheinigung als Korrekturgrenze]] — Übermittlung oder Ausschreibung der Bescheinigung begrenzt Korrekturen nach Jahresende.
+- [[Lohnsteuer-Jahresausgleich durch den Arbeitgeber]] — Arbeitgebererstattung zu viel einbehaltener Lohnsteuer für das Ausgleichsjahr.
+- [[Lohnsteuerliche Sondervorschriften]] — Historischer Kontext weggefallener lohnsteuerlicher Vorschriften.
+- [[Lohnsteuer-Nachschau]] — Unangekündigtes Verfahren zur zeitnahen Aufklärung lohnsteuerlicher Sachverhalte.
+- [[Mitwirkungspflicht des Arbeitgebers]] — Pflichten des Arbeitgebers zur Auskunft und Vorlage bei der Außenprüfung.
+- [[Nachträgliche Einbehaltung von Lohnsteuer]] — Korrektur zu wenig erhobener Lohnsteuer durch den Arbeitgeber.
+- [[Sozialversicherungsbeiträge in der Lohnsteuerbescheinigung]] — Bescheinigte Arbeitnehmer- und Arbeitgeberbeiträge für Vorsorgeaufwendungen.
+- [[Steuernachforderung]] — Nachforderung von Lohnsteuer oder pauschaler Lohnsteuer bei Fehlern.
+- [[Stillhalterprämien]] — Prämien für Stillhaltergeschäfte als Kapitalerträge mit Steuerabzug.
+- [[Übergang zur Lohnsteuer-Außenprüfung]] — Wechsel von der Nachschau zur Außenprüfung ohne vorherige Prüfungsanordnung.
+- [[Vorlagepflicht bei Lohnsteuer-Nachschau]] — Pflicht zur Vorlage von Lohn- und Gehaltsunterlagen und Auskunftserteilung.
+- [[Wandelanleihen]] — Teilschuldverschreibungen mit Umtauschrecht, deren Zinsen dem Steuerabzug unterliegen.
+
+- [[Abstandnahme vom Steuerabzug]] — Nichtvornahme des Kapitalertragsteuerabzugs bei bestimmten Voraussetzungen.
+- [[Anschaffungsdaten]] — Daten zu Anschaffungskosten und Erwerbszeitpunkt, die bei Depotübertragungen mitzuteilen sind.
+- [[Auszahlende Stelle]] — Stelle, die Kapitalerträge auszahlt oder gutschreibt und den Steuerabzug vorzunehmen hat.
+- [[Bemessung der Kapitalertragsteuer]] — Regeln zur Höhe und Bemessungsgrundlage der Kapitalertragsteuer.
+- [[Dauerüberzahlerbescheinigung]] — Bescheinigung für Körperschaften, bei denen Kapitalertragsteuer dauerhaft höher als die festzusetzende Steuer wäre.
+- [[Entrichtung der Kapitalertragsteuer]] — Einbehaltung, Anmeldung und Abführung der Kapitalertragsteuer durch die verpflichtete Stelle.
+- [[Ersatzbemessungsgrundlage]] — Bemessung nach 30 Prozent der Einnahmen, wenn Anschaffungsdaten nicht nachgewiesen sind.
+- [[Freistellung von Kapitalertragsteuer]] — Nicht-Erhebung der Kapitalertragsteuer bei begünstigten Ausschüttungen.
+- [[Freistellungsauftrag]] — Auftrag des Gläubigers, Kapitalerträge bis zum Sparer-Pauschbetrag vom Steuerabzug freizustellen.
+- [[Gläubiger der Kapitalerträge]] — Steuerschuldner der Kapitalertragsteuer in den in § 44 genannten Fällen.
+- [[Internet-Dienstleistungsplattform]] — Plattformbetreiber als auszahlende Stelle bei bestimmten Kapitalerträgen.
+- [[Kapitalertragsteuer-Anmeldung]] — Elektronische Anmeldung der einbehaltenen Kapitalertragsteuer.
+- [[Kapitalertragsteuersatz]] — Steuersatz von 25 Prozent oder 15 Prozent je nach Kapitalertragstatbestand.
+- [[Mindestbeteiligung]] — Unmittelbare Beteiligung von mindestens 10 Prozent am Kapital der Tochtergesellschaft.
+- [[Muttergesellschaft]] — EU-Gesellschaft, die die Beteiligungsvoraussetzungen des § 43b erfüllt.
+- [[Mutter-Tochter-Richtlinie]] — EU-rechtlicher Rahmen für Kapitalertragsteuerentlastung bei Mutter- und Tochtergesellschaften.
+- [[Nichtveranlagungs-Bescheinigung]] — Bescheinigung des Wohnsitzfinanzamts, dass voraussichtlich keine Einkommensteuer entsteht.
+- [[Schuldner der Kapitalerträge]] — Person oder Stelle, die Kapitalerträge schuldet und teils zum Steuerabzug verpflichtet ist.
+- [[Steuerbegünstigte Körperschaft]] — Körperschaft, Personenvereinigung oder Vermögensmasse, bei der gemeinnützige oder vergleichbare Zwecke den Steuerabzug beeinflussen.
+- [[Teilfreistellung bei Investmentfonds]] — Investmentsteuerliche Teilfreistellung, die beim Steuerabzug für bestimmte Fonds berücksichtigt wird.
+- [[Tochtergesellschaft]] — Unbeschränkt steuerpflichtige Gesellschaft, deren Ausschüttungen begünstigt sein können.
+- [[Verlustverrechnungstopf]] — Depotbezogene Verrechnung negativer Kapitalerträge durch die auszahlende Stelle.
+- [[Zwölfmonatige Haltedauer]] — Voraussetzung, dass die Beteiligung ununterbrochen zwölf Monate besteht.
+
+- [[Abführung der Bauabzugsteuer]] — Zahlung des Abzugsbetrags an das für den Leistenden zuständige Finanzamt.
+- [[Abrechnung über den Bauabzug]] — Abrechnung gegenüber dem Leistenden mit Rechnungs-, Zahlungs- und Abzugsdaten.
+- [[Abstandnahme-Rechtsgrundlage]] — Angabe der Rechtsgrundlage für nicht oder nicht vollständig vorgenommenen Steuerabzug.
+- [[Anmeldung der Bauabzugsteuer]] — Elektronische Anmeldung des Steuerabzugs bei Bauleistungen durch den Leistungsempfänger.
+- [[Anmeldung der Kapitalertragsteuer]] — Elektronische Übermittlung der Kapitalertragsteuer-Anmeldung an das Finanzamt.
+- [[Antragsveranlagung]] — Veranlagung auf Antrag des Arbeitnehmers innerhalb der gesetzlichen Frist.
+- [[Arbeitnehmerveranlagung]] — Veranlagung bei Einkünften aus nichtselbständiger Arbeit mit Lohnsteuerabzug.
+- [[Arbeitnehmerveranlagung historisch]] — Historischer Kontext weggefallener Vorschriften im Veranlagungsabschnitt.
+- [[Ausschluss der Kapitalertragsteuer-Erstattung]] — Ausschluss von Erstattung oder Anrechnung, wenn Dividenden an andere als Anteilseigner gezahlt werden.
+- [[Bauabzugsteuer]] — Steuerabzug von 15 Prozent bei Bauleistungen an Unternehmer oder juristische Personen des öffentlichen Rechts.
+- [[Bauleistung]] — Leistung zur Herstellung, Instandsetzung, Instandhaltung, Änderung oder Beseitigung von Bauwerken.
+- [[Bescheinigungsdaten Kapitalertragsteuer]] — An das Bundeszentralamt für Steuern zu übermittelnde Angaben zur Steuerbescheinigung.
+- [[Bruttoerträge je Wertpapiergattung]] — Aggregierte Kapitalerträge nach Wertpapiergattung und Zahlungstag.
+- [[BZSt-Abfrage Freistellungsbescheinigung]] — Speicherung und Auskunft des BZSt über Freistellungsbescheinigungen.
+- [[Dividendenschein]] — Anspruchsurkunde, deren Erwerb besondere Anrechnungs- und Erstattungsausschlüsse auslösen kann.
+- [[Elektronische Kapitalertragsteuerbescheinigung]] — Elektronisch übermittelbare Bescheinigung nach amtlich vorgeschriebenem Muster.
+- [[Erstattung der Kapitalertragsteuer]] — Rückzahlung oder Korrektur einbehaltener Kapitalertragsteuer in den Fällen des § 44b.
+- [[Erstattungsantrag Kapitalertragsteuer]] — Antrag auf Erstattung oder Änderung der Steueranmeldung bei zu Unrecht abgeführter Kapitalertragsteuer.
+- [[Freigrenzen beim Bauabzug]] — 5.000- bzw. 15.000-Euro-Grenzen, unter denen kein Steuerabzug vorzunehmen ist.
+- [[Freistellungsauftrag-Daten]] — An das BZSt zu meldende Kapitalerträge unter Freistellungsauftrag.
+- [[Freistellungsbescheinigung Bauabzugsteuer]] — Bescheinigung, die den Leistungsempfänger von der Pflicht zum Bau-Steuerabzug befreit.
+- [[Gefährdung des Steueranspruchs]] — Versagungsgrund für die Freistellungsbescheinigung beim Bauabzug.
+- [[Gegenleistung bei Bauleistungen]] — Entgelt zuzüglich Umsatzsteuer als Grundlage des Steuerabzugs.
+- [[Haftung des Leistungsempfängers]] — Haftung für nicht oder zu niedrig abgeführte Bauabzugsteuer.
+- [[Inländischer Empfangsbevollmächtigter]] — Voraussetzung für die Erteilung einer Freistellungsbescheinigung an den Leistenden.
+- [[Investmentfonds-Ausschüttung]] — Ausschüttung eines Investmentfonds, deren steuerliche Einordnung Erstattung auslösen kann.
+- [[Kapitalertragsteuer-Datenübermittlung]] — Datenfernübertragung von Bescheinigungs- und Abführungsdaten an das BZSt.
+- [[Korrektur der Kapitalertragsteuer-Anmeldung]] — Änderung oder Kürzung einer Anmeldung bei nachträglicher Freistellung oder fehlender Abzugspflicht.
+- [[Leistungsempfänger bei Bauleistungen]] — Unternehmer oder juristische Person des öffentlichen Rechts, die zum Steuerabzug verpflichtet sein kann.
+- [[Mehrere Arbeitgeber]] — Veranlagungsgrund bei nebeneinander bezogenem Arbeitslohn von mehreren Arbeitgebern.
+- [[Mitteilungen an das Bundeszentralamt für Steuern]] — Datenübermittlung zu Freistellungsaufträgen, Nichtveranlagung und Kapitalerträgen.
+- [[Nichtabführungsgrund]] — Grund, warum Kapitalertragsteuer nicht oder nicht vollständig abgeführt wurde.
+- [[Ordnungsnummer der Steuerbescheinigung]] — Amtliche Ordnungsnummer für Bescheinigungen und Datensätze zur Kapitalertragsteuer.
+- [[Pflichtveranlagung]] — Fälle, in denen trotz Lohnsteuerabzug eine Einkommensteuerveranlagung durchzuführen ist.
+- [[Progressionsvorbehalt bei Arbeitnehmern]] — Veranlagungstatbestand bei progressionsrelevanten Leistungen über 410 Euro.
+- [[Sozialleistungsträger-Datenabgleich]] — Weitergabe und Abgleich von Kapitalertragsdaten zur Prüfung sozialleistungsrechtlichen Einkommens oder Vermögens.
+- [[Steuerbescheinigung Kapitalertragsteuer]] — Bescheinigung über Kapitalerträge und Steuerabzug für den Gläubiger der Kapitalerträge.
+- [[Wertpapierkennnummer]] — Internationale Wertpapierkennnummer als Mitteilungsmerkmal bei Kapitalerträgen.
+- [[Wertpapiersammelbank]] — Inländische Sammelbank mit Mitteilungspflichten nach § 45c.
+- [[Zinsertragsbesteuerung]] — EU-bezogene Besteuerung und Informationspflichten zu Zinserträgen.
+- [[Zinsinformationsverordnung]] — Rechtsverordnung zur Umsetzung europäischer Zinsertragsbesteuerung.
+- [[Zinsschein]] — Zinsanspruch, dessen Erwerb die Erstattung von Kapitalertragsteuer ausschließen kann.
+- [[Zusammengefasste Mitteilung Kapitalertragsteuer]] — Jährliche aggregierte Mitteilung zu Bescheinigung und Abführung der Kapitalertragsteuer.
+
+- [[Abzugsbetrag bei Bauleistungen]] — Einbehaltener Betrag nach § 48, der nach § 48c zu verrechnen ist.
+- [[Anrechnung der Bauabzugsteuer]] — Anrechnung des Bau-Steuerabzugs auf Steuern des Leistenden.
+- [[Ansässigkeitsbescheinigung]] — Nachweis der steuerlichen Ansässigkeit für DBA-bezogene Entlastung.
+- [[Anti-Treaty-Shopping]] — Beschränkung von DBA-Entlastungen bei zwischengeschalteten Gesellschaften.
+- [[Aufsichtsratsvergütungen]] — Vergütungen an Aufsichtsratsmitglieder als Steuerabzugstatbestand.
+- [[Bauabzugsteuer und DBA]] — Besonderheiten des Steuerabzugs bei Bauleistungen im Fall von Doppelbesteuerungsabkommen.
+- [[Beschränkt steuerpflichtige Einkünfte]] — Katalog der inländischen Einkünfte beschränkt steuerpflichtiger Personen.
+- [[Betriebsausgabenabzug bei beschränkter Steuerpflicht]] — Abzug von Betriebsausgaben nur bei wirtschaftlichem Zusammenhang mit inländischen Einkünften.
+- [[Bundeszentralamt für Steuern als Entlastungsstelle]] — Zuständigkeit des BZSt für Entlastung vom Steuerabzug.
+- [[Bußgeldvorschriften im EStG]] — Ordnungswidrigkeiten im Zusammenhang mit Steuerabzug und geringfügiger Beschäftigung.
+- [[DBA-Anwendung]] — Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung auf Steuerabzug und Veranlagung.
+- [[DBA-Entlastung vom Steuerabzug]] — Entlastung vom Steuerabzug aufgrund eines Doppelbesteuerungsabkommens.
+- [[DBA-Freistellung bei Bauleistungen]] — Freistellung oder Erstattung bei entgegenstehendem Abkommensschutz.
+- [[Entlastung vom Steuerabzug]] — Freistellung oder Erstattung vom Steuerabzug in bestimmten Fällen.
+- [[Entlastungsberechtigung]] — Materielle Berechtigung zur Freistellung oder Erstattung vom Steuerabzug.
+- [[Erstattungsanspruch Bauabzugsteuer]] — Anspruch auf Erstattung, wenn der Abzugsbetrag nicht vollständig verrechnet werden kann.
+- [[Erstattungsverfahren Quellensteuer]] — Nachträgliche Erstattung einbehaltener Steuerabzugsbeträge.
+- [[Freistellungsverfahren Quellensteuer]] — Verfahren zur Abstandnahme vom Quellensteuerabzug vor Auszahlung.
+- [[Geringfügige Beschäftigung im Privathaushalt]] — Privathaushalts-Minijob-Kontext mit Nichtverfolgungsregel für geringfügige Steuerstraftaten.
+- [[Grundfreibetrag bei beschränkter Steuerpflicht]] — Tarifliche Behandlung beschränkt Steuerpflichtiger mit Grundfreibetragsmodifikation.
+- [[Inländische Betriebsstätte]] — Inländischer Anknüpfungspunkt für gewerbliche Einkünfte beschränkt Steuerpflichtiger.
+- [[Inländischer ständiger Vertreter]] — Vertreter im Inland als Anknüpfungspunkt für beschränkt steuerpflichtige Einkünfte.
+- [[Inländisches unbewegliches Vermögen]] — Belegenes Vermögen als Grundlage inländischer Einkünfte.
+- [[Künstler- und Sportlervergütungen]] — Vergütungen für künstlerische, sportliche, artistische oder unterhaltende Darbietungen.
+- [[Leistender bei Bauleistungen]] — Person, für deren Rechnung der Steuerabzug vorgenommen und angerechnet wird.
+- [[Lizenzvergütungen]] — Vergütungen für Rechteüberlassung, die dem Steuerabzug nach § 50a unterliegen können.
+- [[Mitwirkung beim Steuerabzug]] — Pflichten zur Auskunft und Prüfung bei Vergütungen an beschränkt Steuerpflichtige.
+- [[Nachweis der Entlastungsberechtigung]] — Mitwirkungs- und Nachweispflichten für abkommensrechtliche Entlastung.
+- [[Nettovereinbarung beim Steuerabzug]] — Übernahme der Steuer durch den Schuldner mit Hochrechnung der Bemessungsgrundlage.
+- [[Nichtverfolgung geringfügiger Steuerstraftaten]] — Absehen von Verfolgung bei bestimmten Bagatellfällen im Privathaushalt.
+- [[Prüfungsrecht bei beschränkt Steuerpflichtigen]] — Prüfungsrecht zur Sicherung des Steuerabzugs nach § 50a.
+- [[Qualifikationskonflikt]] — Unterschiedliche abkommensrechtliche Einordnung von Einkünften zwischen Staaten.
+- [[Rechteverwertung im Inland]] — Überlassung oder Verwertung von Rechten im Inland als Einkunftstatbestand.
+- [[Sondervorschriften für beschränkt Steuerpflichtige]] — Besondere Ermittlung-, Abzug- und Tarifregeln für beschränkt Steuerpflichtige.
+- [[Steuerabzug bei beschränkt Steuerpflichtigen]] — Quellensteuerabzug auf bestimmte Vergütungen beschränkt Steuerpflichtiger.
+- [[Veranlagung beschränkt Steuerpflichtiger]] — Veranlagung und Steuerabzug bei beschränkt steuerpflichtigen Einkünften.
+- [[Vergütungsschuldner]] — Person, die Vergütungen schuldet und den Steuerabzug vorzunehmen hat.
+- [[Werbungskostenabzug bei beschränkter Steuerpflicht]] — Abzug von Werbungskosten nur bei wirtschaftlichem Zusammenhang mit inländischen Einkünften.
+
+- [[Ansässigkeitsbestätigung für Quellensteuerentlastung]] — Finanzamtsbestätigung für Entlastung von Quellensteuern in EU-Staaten oder der Schweiz.
+- [[Anteile im Sinne des § 17]] — Kapitalgesellschaftsanteile, die unter § 50i in Personengesellschaftsstrukturen relevant sind.
+- [[Betriebsausgaben-Pauschbetrag]] — Pauschbeträge für Betriebsausgaben bestimmter Betriebsgruppen.
+- [[Bewertungs- und Abschreibungsregeln per Verordnung]] — Ermächtigung zur Regelung von Bewertung, AfA und Gewinnermittlungsdetails.
+- [[Bußgeld bei Rentenbezugsmitteilungen]] — Ordnungswidrigkeit bei nicht, unvollständig oder verspätet übermittelten Daten nach § 22a.
+- [[Cum-Cum-Abwehr]] — Regelungszweck gegen missbräuchliche Kapitalertragsteuerentlastung bei Dividenden.
+- [[DBA-durchbrechende Besteuerung]] — Besteuerung bestimmter Einkünfte ungeachtet entgegenstehender DBA-Regeln.
+- [[Einkommensteuer-Durchführungsverordnung]] — Durchführungsverordnung als Instrument zur Konkretisierung des EStG.
+- [[Geldbuße bis 50.000 Euro]] — Bußgeldrahmen für Verstöße gegen Datenübermittlungspflichten.
+- [[Inländische Betriebsstätte für Quellensteuerzwecke]] — Betriebsstätte im Inland als Bezugspunkt für die Bestätigung.
+- [[Kapitalertragsteuerliche Verordnungsermächtigung]] — Ermächtigungen zur Durchführung des Kapitalertragsteuerabzugs.
+- [[Kinderfreibeträge bei Zuschlagsteuern]] — Berücksichtigung von Freibeträgen nach § 32 Abs. 6 bei der Zuschlagsteuerbemessung.
+- [[Kirchensteuer als Zuschlagsteuer]] — Zuschlagsteuer, deren Bemessung sich nach Einkommensteuerregeln richtet.
+- [[Lohnsteuerliche Verordnungsermächtigung]] — Ermächtigungen zu Lohnsteuerabzug, Lohnkonto und Lohnsteuer-Jahresausgleich.
+- [[Mindestbeteiligung verbundener Unternehmen]] — Beteiligungsschwelle für verbundene Unternehmen im Sinne des § 50g.
+- [[Mindesthaltedauer bei Kapitalertragsteuerentlastung]] — 45-Tage-Haltedauer rund um die Fälligkeit der Kapitalerträge.
+- [[Mindestwertänderungsrisiko bei Kapitalertragsteuerentlastung]] — Erforderliches Kursrisiko von mindestens 70 Prozent.
+- [[Nutzungsberechtigter Gläubiger]] — Gläubiger, dem die Zinsen oder Lizenzgebühren steuerlich zuzurechnen sind.
+- [[Quellensteuerentlastung für Lizenzgebühren]] — Nicht-Erhebung von § 50a-Steuer auf bestimmte Lizenzzahlungen.
+- [[Quellensteuerentlastung für Zinsen]] — Nicht-Erhebung von Kapitalertragsteuer auf bestimmte grenzüberschreitende Zinszahlungen.
+- [[Quellensteuerentlastung im Ausland]] — Entlastung von Quellensteuer in anderem EU-Mitgliedstaat oder der Schweiz.
+- [[Solidaritätszuschlag]] — Zuschlagsteuer, deren Festsetzung an Einkommensteuer oder Lohnsteuer anknüpft.
+- [[Stille Reserven bei Personengesellschaften]] — Nicht besteuerte stille Reserven bei früherer Übertragung in Personengesellschaften.
+- [[Umwandlungssteuerrechtlicher Einbringungsfall]] — Einbringungsvorgänge, an die § 50i anknüpft.
+- [[Verbundene Unternehmen in der EU]] — Unternehmen mit qualifizierter Beteiligungsbeziehung für § 50g.
+- [[Verordnungsermächtigung im Einkommensteuerrecht]] — Ermächtigungen der Bundesregierung und des BMF zum Erlass steuerlicher Rechtsverordnungen.
+- [[Versagung der Kapitalertragsteuerentlastung]] — Ausschluss von DBA-Entlastung bei fehlender Haltedauer, fehlendem Risiko oder Weitergabepflicht.
+- [[Weitergabeverpflichtung für Kapitalerträge]] — Pflicht zur Weiterleitung der Kapitalerträge als schädliche Entlastungsvoraussetzung.
+- [[Wirtschaftsgüter des Betriebsvermögens]] — Betriebsvermögensgegenstände, deren spätere Veräußerung oder Entnahme § 50i erfasst.
+- [[Zentrale Stelle als Verwaltungsbehörde]] — Zentrale Stelle nach § 81 als zuständige Verwaltungsbehörde für die Geldbuße.
+- [[Zins- und Lizenzrichtlinie]] — EU-Entlastung für Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen.
+- [[Zuschlagsteuer auf Kapitalertragsteuer]] — Erhebung von Zuschlagsteuern bei Kapitalertragsteuerabzug.
+- [[Zuschlagsteuer beim Lohnsteuerabzug]] — Erhebung von Zuschlagsteuern im Wege des Steuerabzugs vom Arbeitslohn.
+- [[Zuschlagsteuern]] — Steuern, die nach der Einkommensteuer bemessen werden.
+
+- [[Anwendungsvorschriften]] — Zeitliche Regeln zur Anwendung einzelner EStG-Fassungen und Änderungen
+- [[Übergangsregelung im Einkommensteuerrecht]] — Regel für den Wechsel zwischen alter und neuer steuerlicher Rechtslage
+- [[Zeitliche Anwendung von Steuervergünstigungen]] — Bestimmt, ab wann steuerliche Begünstigungen gelten
+- [[Steuerabzug in Übergangsfällen]] — Übergangsregeln für Lohnsteuer- und Kapitalertragsteuerabzug
+- [[Fortgeltung alter Rechtslagen]] — Weitergeltung früherer Gesetzesfassungen für bestimmte Fälle
+- [[Grund und Boden im Betriebsvermögen]] — Steuerlicher Wertansatz von betrieblich gehaltenem Grund und Boden
+- [[Anschaffung vor dem 1. Juli 1970]] — Stichtag für Sonderregeln zu Alt-Grundstücken
+- [[Teilwert von Grund und Boden]] — Steuerlicher Wertmaßstab für Grund und Boden
+- [[Buchwert von Grund und Boden]] — Fortgeführter steuerlicher Wertansatz in der Gewinnermittlung
+- [[Beitrittsgebiet]] — Gebiet nach Artikel 3 des Einigungsvertrages
+- [[Einigungsvertrag im Steuerrecht]] — Steuerlicher Bezugspunkt für Sonderregeln zur deutschen Einheit
+- [[Eröffnungsbilanz im Beitrittsgebiet]] — Bilanzielle Ausgangswerte für Betriebe im Beitrittsgebiet
+- [[Sondervorschriften für Steuerpflichtige im Beitrittsgebiet]] — Übergangsregeln für Steuerpflichtige in den neuen Ländern
+- [[Herstellung der Einheit Deutschlands]] — Anlass für besondere steuerliche Anwendungsvorschriften
+- [[Anwendungsregeln zur deutschen Einheit]] — Übergangsvorschriften im Zusammenhang mit der Wiedervereinigung
+- [[Beitrittsbedingte Steuerregelung]] — Sonderregelung mit Bezug zum Beitrittsgebiet
+- [[Fortgeltung früherer Rechtsvorschriften]] — Weiteranwendung alten Rechts im Beitrittsgebiet
+- [[Rechtsvorschriften des Beitrittsgebiets]] — Vor der Einheit geltendes Recht mit steuerlicher Fortwirkung
+- [[Kindergeldanspruch]] — Anspruch auf Kindergeld nach persönlichen Voraussetzungen
+- [[Anspruchsberechtigte beim Kindergeld]] — Personenkreis, der Kindergeld beanspruchen kann
+- [[Wohnsitz und gewöhnlicher Aufenthalt]] — Inlandsbezug als steuerliches Anspruchsmerkmal
+- [[Freizügigkeitsberechtigte Staatsangehörige]] — EU-/EWR-Personen mit besonderem Kindergeldbezug
+- [[Aufenthaltstitel beim Kindergeld]] — Aufenthaltsrechtliche Voraussetzung für Kindergeld
+
+- [[Abzweigung von Kindergeld]] — Auszahlung des Kindergeldes an Dritte oder das Kind statt an den Berechtigten.
+- [[Altersgrenzen beim Kindergeld]] — Altersabhängige Voraussetzungen für die Berücksichtigung volljähriger Kinder.
+- [[Andere Leistungen für Kinder]] — Leistungen, die Kindergeld ganz oder teilweise verdrängen.
+- [[Antragstellung bei der Familienkasse]] — Verfahren zur Beantragung von Kindergeld bei der zuständigen Familienkasse.
+- [[Aufhebung der Kindergeldfestsetzung]] — Korrektur einer Kindergeldfestsetzung bei geänderten Voraussetzungen.
+- [[Aufrechnung mit Kindergeld]] — Verrechnung von Kindergeldansprüchen mit Gegenforderungen.
+- [[Ausländische Familienleistungen]] — Im Ausland gewährte kindbezogene Leistungen, die den deutschen Kindergeldanspruch beeinflussen können.
+- [[Ausschluss des Kindergeldes]] — Ausschluss bei anderen vergleichbaren Leistungen für Kinder.
+- [[Automatisierter Datenabruf]] — Technisches Verfahren zur Datenübermittlung an Familienkassen.
+- [[Berechtigtenbestimmung]] — Bestimmung der kindergeldberechtigten Person durch Berechtigte, Familiengericht oder Vorrangregel.
+- [[Berücksichtigungsfähige Kinder]] — Kinder, die aufgrund Verwandtschaft, Pflegeverhältnis oder Aufnahme in den Haushalt kindergeldrechtlich zählen.
+- [[Datenübermittlung an Familienkassen]] — Übermittlung relevanter Informationen zur Prüfung des Kindergeldanspruchs.
+- [[Differenzkindergeld]] — Kindergeldzahlung nur in Höhe des Unterschiedsbetrags zu anderen Kinderleistungen.
+- [[Elektronische Antragstellung]] — Möglichkeit oder Pflicht zur elektronischen Übermittlung von Kindergeldanträgen.
+- [[Erstattungsanspruch beim Kindergeld]] — Rückforderung oder Ausgleich zu Unrecht gezahlten Kindergeldes.
+- [[Haushaltsaufnahme beim Kindergeld]] — Kriterium für die Zuordnung des Kindergeldanspruchs bei mehreren Berechtigten.
+- [[Höhe des Kindergeldes]] — Monatlicher Betrag des Kindergeldes pro Kind.
+- [[Identifikationsnummer beim Kindergeld]] — Steuerliche Identifikationsnummer als Merkmal im Kindergeldverfahren.
+- [[Kinder im Kindergeldrecht]] — Kinder, die für den Kindergeldanspruch nach § 62 berücksichtigt werden.
+- [[Kindergeld als Sozialleistung]] — Einordnung des Kindergeldes bei Zahlung, Abzweigung und Pfändung.
+- [[Kindergeld an Sozialleistungsträger]] — Auszahlung oder Erstattung von Kindergeld an Träger, die für das Kind leisten.
+- [[Kindergeld bei Ausbildung]] — Berücksichtigung von Kindern während Schul-, Berufs- oder Hochschulausbildung.
+- [[Kindergeld bei Behinderung]] — Berücksichtigung volljähriger Kinder, die wegen Behinderung außerstande sind, sich selbst zu unterhalten.
+- [[Kindergeldantrag]] — Antragserfordernis für die Festsetzung von Kindergeld.
+- [[Kindergeldfestsetzung]] — Verwaltungsakt, mit dem Kindergeld festgesetzt wird.
+- [[Kindergeldzahlung]] — Auszahlung des festgesetzten Kindergeldes.
+- [[Kindergeldzahlung in Sonderfällen]] — Abweichende Auszahlung des Kindergeldes bei besonderen Fallgestaltungen.
+- [[Mehrere Kindergeldberechtigte]] — Konstellation, in der mehrere Personen für dasselbe Kind Kindergeld beanspruchen können.
+- [[Meldedaten im Kindergeldverfahren]] — Melderechtliche Daten, die Familienkassen für Kindergeldverfahren nutzen.
+- [[Mitwirkungspflichten beim Kindergeld]] — Pflichten zur Angabe und Mitteilung kindergeldrelevanter Tatsachen.
+- [[Nachzahlung von Kindergeld]] — Auszahlung zurückbehaltener Beträge nach Klärung der Anspruchsvoraussetzungen.
+- [[Offenbarungsbefugnis]] — Befugnis zur Offenbarung geschützter Daten gegenüber Familienkassen.
+- [[Pflegekinder]] — Kinder, die in einem auf Dauer angelegten familienähnlichen Band aufgenommen sind.
+- [[Pfändung von Kindergeld]] — Zugriff von Gläubigern auf Kindergeld nach den gesetzlichen Grenzen.
+- [[Pfändungsschutz beim Kindergeld]] — Schutz des Kindergeldes vor oder bei Vollstreckungszugriffen.
+- [[Rückwirkende Kindergeldzahlung]] — Zeitliche Begrenzung der nachträglichen Kindergeldfestsetzung oder Auszahlung.
+- [[Unterhaltspflicht und Kindergeld]] — Zusammenhang zwischen Unterhaltsleistung und Auszahlung des Kindergeldes.
+- [[Verrechnung im Kindergeldverfahren]] — Technische oder rechtliche Verrechnung von Ansprüchen im Kindergeldverfahren.
+- [[Veränderungsmitteilung beim Kindergeld]] — Pflicht zur Meldung von Änderungen, die für Kindergeld erheblich sind.
+- [[Vorläufige Einstellung der Kindergeldzahlung]] — Vorübergehende Unterbrechung der Auszahlung bei Zweifeln am Anspruch.
+- [[Vorrang beim Kindergeld]] — Regeln, welche berechtigte Person bei mehreren Ansprüchen vorrangig Kindergeld erhält.
+- [[Zahlungszeitraum beim Kindergeld]] — Monatlicher Zeitraum, für den Kindergeld gezahlt wird.
+- [[Zweifel am Kindergeldanspruch]] — Unsicherheit über Anspruchsvoraussetzungen, die eine vorläufige Einstellung auslösen kann.
+- [[Änderung der Kindergeldfestsetzung]] — Anpassung der Kindergeldfestsetzung bei neuen Tatsachen oder Rechtsänderungen.
+- [[Ablauf des Beitragsjahres]] — Zeitlicher Bezugspunkt für die Entstehung des Zulageanspruchs.
+- [[Altersvorsorgevertrag]] — Zertifizierter Vertrag, für den Altersvorsorgezulage beantragt werden kann.
+- [[Anbieter als Antragsempfänger]] — Rolle des Anbieters bei Entgegennahme und Weiterleitung des Zulageantrags.
+- [[Anbieter von Altersvorsorgeverträgen]] — Anbieter zertifizierter Altersvorsorgeprodukte im Zulageverfahren.
+- [[Anbieterpflichten]] — Mitwirkungs-, Datenübermittlungs- und Informationspflichten von Anbietern.
+- [[Anbieterübergreifendes Zulageverfahren]] — Koordination der Zulage bei mehreren Anbietern.
+- [[Anspruchsvoraussetzungen der Altersvorsorgezulage]] — Voraussetzungen, die für den Zulageanspruch erfüllt sein müssen.
+- [[Antragsfrist für Altersvorsorgezulage]] — Frist, innerhalb der die Zulage beantragt werden muss.
+- [[Auszahlung der Altersvorsorgezulage]] — Überweisung der Zulage an den Anbieter zugunsten des Vertrags.
+- [[Beitragsbemessung bei Altersvorsorgezulage]] — Berechnung des erforderlichen Eigenbeitrags aus maßgebenden Einnahmen.
+- [[Beiträge zugunsten des Ehegatten]] — Beiträge, die bei Ehegatten oder Lebenspartnern im Zulagekontext relevant sind.
+- [[Berufseinsteiger-Bonus]] — Erhöhte Grundzulage für junge Zulageberechtigte.
+- [[Besoldungsstelle]] — Dienststelle, die für Beamte oder Versorgungsempfänger relevante Daten übermittelt.
+- [[Datenabgleich im Zulageverfahren]] — Abgleich von Daten zur Prüfung der Zulagevoraussetzungen.
+- [[Datenverarbeitung bei Altersvorsorgezulage]] — Verarbeitung von Vertrags- und Personendaten im Zulageverfahren.
+- [[Dauerzulageantrag]] — Einmaliger Antrag, der auch für Folgejahre wirkt.
+- [[Deutsche Rentenversicherung Bund als zentrale Stelle]] — Trägerfunktion im Verfahren der Altersvorsorgezulage.
+- [[Einwilligung zur Datenübermittlung]] — Zustimmung zur Übermittlung zulagerelevanter Daten.
+- [[Entstehung des Zulageanspruchs]] — Zeitpunkt, zu dem der Anspruch auf Altersvorsorgezulage entsteht.
+- [[Familienkasse im Vorverfahren]] — Behörde, die über Kindergeld und Kosten im Vorverfahren entscheidet.
+- [[Festsetzung der Altersvorsorgezulage]] — Verwaltungsverfahren zur Bestimmung der Zulage.
+- [[Fortgeltung im Kindergeldrecht]] — Weiteranwendung früherer Regelungen für bestimmte Zeiträume.
+- [[Förderberechtigte Altersvorsorge]] — Altersvorsorgeformen, die nach dem EStG zulagebegünstigt sind.
+- [[Geförderte Altersvorsorgebeiträge]] — Beiträge zu begünstigten Altersvorsorgeverträgen.
+- [[Grundzulage]] — Basisteil der Altersvorsorgezulage für zulageberechtigte Personen.
+- [[Kindergeld-Übergangsfälle]] — Sachverhalte, die wegen Rechtsänderungen besonderen Übergangsregeln unterliegen.
+- [[Kindergeldbezug für Kinderzulage]] — Kindergeldanspruch als Anknüpfungspunkt der Kinderzulage.
+- [[Kinderzulage bei Ehegatten]] — Zulagezuordnung zwischen Ehegatten oder Lebenspartnern.
+- [[Kosten im Vorverfahren]] — Erstattung notwendiger Aufwendungen im kindergeldrechtlichen Vorverfahren.
+- [[Kürzung der Altersvorsorgezulage]] — Minderung der Zulage bei zu geringem Eigenbeitrag.
+- [[Maßgebende Einnahmen]] — Einnahmenbasis für die Berechnung des Mindesteigenbeitrags.
+- [[Mehrere Altersvorsorgeverträge]] — Fall, in dem Zulageberechtigte mehrere geförderte Verträge haben.
+- [[Mindesteigenbeitrag und Grundzulage]] — Zusammenhang zwischen Eigenbeitrag und voller Grundzulage.
+- [[Mittelbare Zulageberechtigung]] — Abgeleitete Zulageberechtigung über den Ehegatten oder Lebenspartner.
+- [[Notwendige Aufwendungen]] — Kosten, die im erfolgreichen Vorverfahren erstattungsfähig sein können.
+- [[Priorität mehrerer Verträge]] — Reihenfolge oder Zuordnung bei mehreren Altersvorsorgeverträgen.
+- [[Riester-Förderung]] — Förderung zertifizierter Altersvorsorgeverträge durch Zulagen und Sonderausgabenabzug.
+- [[Rückforderung der Altersvorsorgezulage]] — Rückabwicklung zu Unrecht gewährter Zulagen.
+- [[Sockelbetrag]] — Mindestbetrag, der auch bei niedriger Bemessungsgrundlage zu leisten ist.
+- [[Tilgungsleistungen als Altersvorsorgebeiträge]] — Tilgungszahlungen für begünstigte Wohn-Riester-Finanzierungen.
+- [[Unmittelbare Zulageberechtigung]] — Eigene Zulageberechtigung aufgrund persönlicher oder versicherungsrechtlicher Voraussetzungen.
+- [[Verteilung der Altersvorsorgezulage]] — Aufteilung der Zulage auf mehrere Verträge.
+- [[Vorverfahren im Kindergeldrecht]] — Einspruchs- oder Vorverfahren gegen Entscheidungen der Familienkasse.
+- [[Wohn-Riester]] — Eigenheimbezogene Verwendung geförderter Altersvorsorgebeiträge.
+- [[Zertifizierungsnummer]] — Kennzeichen zertifizierter Altersvorsorgeverträge.
+- [[Zulageanspruch]] — Anspruch auf Grundzulage und gegebenenfalls Kinderzulage.
+- [[Zulageantrag]] — Antrag auf Altersvorsorgezulage.
+- [[Zulageberechnung]] — Berechnung der Altersvorsorgezulage nach Grundzulage, Kinderzulage und Eigenbeitrag.
+- [[Zulageberechtigte]] — Personen, die eine Altersvorsorgezulage beanspruchen können.
+- [[Zulagedaten bei Beamten]] — Daten, die bei Beamten und Versorgungsempfängern für die Altersvorsorgezulage relevant sind.
+- [[Zulagejahr]] — Kalenderjahr, für das Altersvorsorgezulage beansprucht wird.
+- [[Zulageverfahren]] — Verfahren zur Ermittlung, Festsetzung und Auszahlung der Altersvorsorgezulage.
+- [[Zuordnung der Kinderzulage]] — Regeln, welchem Elternteil die Kinderzulage zugeordnet wird.
+- [[Zuständige Stelle]] — Stelle, die für bestimmte Mitteilungen oder Daten im Zulageverfahren zuständig ist.
+- [[Übergangsregelungen beim Kindergeld]] — Zeitliche Sonderregeln für den Wechsel zwischen alten und neuen Kindergeldvorschriften.
+- [[Abgabenordnung im Zulageverfahren]] — Anwendung allgemeiner steuerverfahrensrechtlicher Regeln auf die Altersvorsorgezulage.
+- [[Allgemeine Vorschriften zur Altersvorsorgezulage]] — Verfahrens- und Zuständigkeitsregeln für die Zulage.
+- [[Altersvorsorge-Eigenheimbetrag]] — Entnahme oder Verwendung geförderten Altersvorsorgekapitals für selbst genutztes Wohneigentum.
+- [[Antrag auf Altersvorsorge-Eigenheimbetrag]] — Antrag zur Entnahme geförderten Kapitals für selbst genutztes Wohneigentum.
+- [[Anzeigepflichten bei schädlicher Verwendung]] — Pflichten zur Anzeige schädlicher Verwendungen gegenüber Anbieter oder zentraler Stelle.
+- [[Auflösung des Wohnförderkontos]] — Steuerliche Behandlung des Wohnförderkontos bei schädlicher Verwendung oder Auszahlungsphase.
+- [[Ausnahme von schädlicher Verwendung]] — Fälle, in denen keine oder abweichende Rückzahlung ausgelöst wird.
+- [[Automatisierter Datenabgleich]] — Maschineller Abgleich von Steuer-, Renten- oder Vertragsdaten im Zulageverfahren.
+- [[Barrierefreier Umbau]] — Begünstigte Verwendung von Altersvorsorgekapital für bestimmte Umbaumaßnahmen.
+- [[Bescheid über Rückzahlungsbetrag]] — Feststellung des zurückzuzahlenden Betrags bei schädlicher Verwendung.
+- [[Bescheinigung nach § 92 EStG]] — Jährliche Information des Anbieters über Altersvorsorgebeiträge, Zulagen und Vertragsdaten.
+- [[Datenerhebung im Zulageverfahren]] — Erhebung personenbezogener und vertragsbezogener Daten zur Prüfung der Altersvorsorgezulage.
+- [[Einbehalt bei schädlicher Verwendung]] — Einbehalt und Abführung zurückzuzahlender Förderbeträge.
+- [[Elektronische Bereitstellung der Bescheinigung]] — Digitale Zurverfügungstellung der Bescheinigung im Altersvorsorgeverfahren.
+- [[Energetische Sanierung bei Wohn-Riester]] — Begünstigte Verwendung für energetische Maßnahmen an der selbst genutzten Wohnung.
+- [[Festsetzungsverjährung bei Altersvorsorgezulage]] — Zeitliche Grenzen für Festsetzung oder Änderung im Zulageverfahren.
+- [[Informationspflichten des Anbieters]] — Pflichten des Anbieters zur Information über Stand und Förderung des Altersvorsorgevertrags.
+- [[Jahresbescheinigung Altersvorsorge]] — Bescheinigung der Vertragsdaten und Zulageinformationen für den Anleger.
+- [[Mitteilungspflichten der zentralen Stelle]] — Pflichten zur Übermittlung oder Weitergabe zulagerelevanter Daten.
+- [[Nachgelagerte Besteuerung bei Wohn-Riester]] — Besteuerung der im Wohnförderkonto erfassten Beträge in der Auszahlungsphase.
+- [[Nachweis der wohnungswirtschaftlichen Verwendung]] — Belege und Bestätigungen zur Verwendung des Altersvorsorgekapitals.
+- [[Rückzahlung bei Tod]] — Sonderregeln für die Rückzahlung oder Fortführung im Todesfall.
+- [[Rückzahlung von Altersvorsorgezulage]] — Rückforderung gewährter Zulagen bei schädlicher Verwendung.
+- [[Rückzahlung von Steuervorteilen]] — Rückabwicklung steuerlicher Vorteile bei schädlicher Verwendung.
+- [[Schädliche Verwendung]] — Verwendung geförderten Altersvorsorgevermögens entgegen den Fördervoraussetzungen.
+- [[Schädliche Wohn-Riester-Verwendung]] — Wegfall der begünstigten Selbstnutzung oder andere schädliche Verwendung des Wohnförderbetrags.
+- [[Selbst genutzte Wohnung]] — Wohnung, die der Zulageberechtigte zu eigenen Wohnzwecken nutzt.
+- [[Sonderfälle der Rückzahlung]] — Besondere Rückzahlungstatbestände bei Altersvorsorgeförderung.
+- [[Steuerverwaltungsverfahren bei Zulagen]] — Verfahrensrechtliche Einordnung der Altersvorsorgezulage.
+- [[Tilgungsförderung]] — Begünstigung von Tilgungsleistungen für begünstigte Wohnimmobilien.
+- [[Verfahren bei schädlicher Verwendung]] — Verfahrensregeln zur Feststellung und Rückabwicklung schädlicher Verwendung.
+- [[Verfahren beim Wohn-Riester]] — Antrags- und Nachweisverfahren für die wohnungswirtschaftliche Verwendung.
+- [[Wohnförderkonto]] — Konto zur steuerlichen Erfassung wohnungswirtschaftlich verwendeter geförderter Altersvorsorgebeträge.
+- [[Zentrale Stelle bei Wohn-Riester]] — Rolle der zentralen Stelle im Verfahren der wohnungswirtschaftlichen Verwendung.
+- [[Übertragung von Altersvorsorgevermögen]] — Übertragung geförderten Vermögens auf andere Verträge oder Berechtigte.
+- [[Abgabenordnung bei Mobilitätsprämie]] — Anwendung allgemeiner steuerverfahrensrechtlicher Regeln auf die Mobilitätsprämie.
+- [[Ablauf des Veranlagungszeitraums]] — Zeitlicher Bezugspunkt für die Entstehung der Mobilitätsprämie.
+- [[Anpassung von Vorauszahlungen 2019]] — Sonderregel zur Herabsetzung von Vorauszahlungen für 2019.
+- [[Anspruchsberechtigung für Mobilitätsprämie]] — Personenkreis, der eine Mobilitätsprämie beanspruchen kann.
+- [[Anspruchsjahr der Mobilitätsprämie]] — Jahr, für das die Mobilitätsprämie entsteht und beantragt wird.
+- [[Antrag auf Mobilitätsprämie]] — Antragserfordernis zur Festsetzung der Mobilitätsprämie.
+- [[Antragsfrist für Mobilitätsprämie]] — Frist zur Beantragung der Mobilitätsprämie.
+- [[Auszahlung der Mobilitätsprämie]] — Zahlung der festgesetzten Mobilitätsprämie an Anspruchsberechtigte.
+- [[Bemessungsgrundlage der Mobilitätsprämie]] — Rechengröße zur Ermittlung der Mobilitätsprämie.
+- [[Betriebliche Altersversorgung]] — Altersversorgung über den Arbeitgeber mit steuerlichen Förderregeln.
+- [[Corona-Steuerhilfen]] — Steuerliche Sonderregelungen zur Liquiditätsentlastung in der Corona-Krise.
+- [[Corona-bedingter Verlustrücktrag]] — Verlustberücksichtigung im Zusammenhang mit der Corona-Krise.
+- [[Durchführungsregelung im Zulageverfahren]] — Rechtsverordnung zur technischen Ausgestaltung des Zulageverfahrens.
+- [[Durchführungsvorschriften zur Mobilitätsprämie]] — Rechtsverordnung zur praktischen Umsetzung der Mobilitätsprämie.
+- [[Einkommensteuerbescheid und Mobilitätsprämie]] — Verbindung der Mobilitätsprämienfestsetzung mit der Einkommensteuerveranlagung.
+- [[Elektronisches Verfahren zur Mobilitätsprämie]] — Verfahrensregelungen zur elektronischen Abwicklung.
+- [[Entfernungspauschale als Anspruchsvoraussetzung]] — Pendlerpauschalen-Bezug als Voraussetzung der Mobilitätsprämie.
+- [[Entfernungspauschale bei Mobilitätsprämie]] — Pendlerpauschale als Ausgangspunkt der Mobilitätsprämienberechnung.
+- [[Entstehung der Mobilitätsprämie]] — Zeitpunkt, zu dem der Anspruch auf Mobilitätsprämie entsteht.
+- [[Erhöhte Entfernungspauschale]] — Erhöhter Pauschbetrag ab bestimmten Entfernungskilometern.
+- [[Ertragsteuerliche Behandlung der Mobilitätsprämie]] — Steuerliche Einordnung der ausgezahlten Mobilitätsprämie.
+- [[Festsetzung der Mobilitätsprämie]] — Verwaltungsakt zur Bestimmung der Mobilitätsprämie.
+- [[Finanzrechtsweg]] — Rechtsweg zu den Finanzgerichten bei steuerlichen Zulagefragen.
+- [[Förderbetrag zur betrieblichen Altersversorgung]] — Steuerlicher Förderbetrag für zusätzliche Arbeitgeberbeiträge zur betrieblichen Altersversorgung.
+- [[Geringverdienende Pendler]] — Pendler, deren Einkommensteuerbelastung für den Entfernungspauschalen-Vorteil nicht ausreicht.
+- [[Geringverdienerförderung]] — Förderung von Arbeitgeberbeiträgen für Beschäftigte mit niedrigerem Arbeitslohn.
+- [[Herabsetzung von Einkommensteuer-Vorauszahlungen]] — Anpassung festgesetzter Vorauszahlungen wegen erwarteter geringerer Steuer.
+- [[Kapitalübertragung ohne schädliche Verwendung]] — Übertragung, die keine Rückzahlung der Förderung auslöst.
+- [[Lohnsteuer-Ermäßigungsverfahren für bAV-Förderbetrag]] — Verrechnung des Förderbetrags mit einzubehaltender Lohnsteuer.
+- [[Mobilitätsprämie]] — Prämie für bestimmte Pendler mit geringem Einkommen als Ausgleich zur Entfernungspauschale.
+- [[Mobilitätsprämie als nicht steuerbare Leistung]] — Einordnung der Mobilitätsprämie außerhalb der steuerpflichtigen Einkünfte.
+- [[Mobilitätsprämienberechtigte]] — Steuerpflichtige mit Anspruch auf Mobilitätsprämie.
+- [[Mobilitätsprämienverfahren]] — Verfahren zur Beantragung und Prüfung der Mobilitätsprämie.
+- [[Nachträgliche Anpassung bei Verlustrücktrag]] — Korrektur nach endgültiger Verlustfeststellung.
+- [[Pauschalierter Verlustrücktrag 2020]] — Vorweggenommene Berücksichtigung erwarteter Verluste aus 2020.
+- [[Rechtsschutz bei Altersvorsorgezulage]] — Möglichkeiten, Entscheidungen im Zulageverfahren gerichtlich überprüfen zu lassen.
+- [[Rechtsweg im Zulageverfahren]] — Zuständiger gerichtlicher Weg für Streitigkeiten zur Altersvorsorgezulage.
+- [[Steuerfreiheit der Mobilitätsprämie]] — Nichtbesteuerung oder besondere Behandlung der Mobilitätsprämie.
+- [[Steuerordnungswidrigkeit bei Mobilitätsprämie]] — Bußgeldrechtliche Risiken bei falschen Angaben zur Mobilitätsprämie.
+- [[Steuerpflichtige unter Grundfreibetrag]] — Personen, bei denen die Entfernungspauschale steuerlich nicht voll wirkt.
+- [[Steuerstrafrecht bei Mobilitätsprämie]] — Strafrechtliche Behandlung unrichtiger Angaben im Mobilitätsprämienverfahren.
+- [[Steuerverwaltungsverfahren bei Mobilitätsprämie]] — Verfahrensrechtliche Behandlung der Mobilitätsprämie.
+- [[Straf- und Bußgeldvorschriften bei Mobilitätsprämie]] — Anwendung steuerlicher Sanktionsvorschriften auf Mobilitätsprämienfälle.
+- [[Verfahrensrecht der Mobilitätsprämie]] — AO-basierte Verfahrensregeln für Festsetzung und Auszahlung.
+- [[Verlustrücktrag 2020 und 2021]] — Sonderregeln für Rücktrag pandemiebedingter Verluste.
+- [[Verordnungsermächtigung zur Altersvorsorgezulage]] — Ermächtigung zum Erlass ergänzender Verfahrens- und Durchführungsvorschriften.
+- [[Verordnungsermächtigung zur Mobilitätsprämie]] — Ermächtigung zur Regelung von Einzelheiten des Mobilitätsprämienverfahrens.
+- [[Vertragswechsel bei Altersvorsorge]] — Wechsel des Anbieters oder Vertrags unter Fortführung der Förderung.
+- [[Vorläufiger Verlustrücktrag]] — Vorläufige Berücksichtigung erwarteter Verluste vor endgültiger Veranlagung.
+- [[Zulageverfahren per Rechtsverordnung]] — Normsetzung zur organisatorischen Umsetzung der Altersvorsorgezulage.
+- [[Zusätzlicher Arbeitgeberbeitrag]] — Arbeitgeberleistung, die zusätzlich zum ohnehin geschuldeten Arbeitslohn erbracht wird.
+- [[Übertragbarkeit von Altersvorsorgevermögen]] — Regeln zur Übertragung geförderten Altersvorsorgevermögens.
+- [[Übertragung auf Ehegatten]] — Übertragung geförderten Vermögens auf Ehegatten oder Lebenspartner in Sonderfällen.
+- [[Abgabenordnung bei Energiepreispauschale]] — Anwendung steuerverfahrensrechtlicher Regeln auf die Energiepreispauschale.
+- [[Aktive Erwerbstätigkeit]] — Erwerbstätigkeit als Voraussetzung für die Energiepreispauschale.
+- [[Anrechnung der Energiepreispauschale]] — Anrechnung der Energiepreispauschale auf die festgesetzte Einkommensteuer.
+- [[Anrechnung von Vorauszahlungen und Pauschalen]] — Berücksichtigung pauschaler Leistungen im Steuerbescheid.
+- [[Anspruchsberechtigung für Energiepreispauschale]] — Personenkreis, der die Energiepreispauschale beanspruchen kann.
+- [[Anspruchsentstehung bei Pauschalleistungen]] — Entstehung eines gesetzlich pauschalierten Zahlungsanspruchs.
+- [[Arbeitgeberauszahlung der Energiepreispauschale]] — Pflichten des Arbeitgebers bei Auszahlung an Arbeitnehmer.
+- [[Arbeitnehmeranspruch auf Energiepreispauschale]] — Anspruchsrealisierung bei Arbeitnehmern.
+- [[Auszahlung der Energiepreispauschale an Arbeitnehmer]] — Auszahlung der Pauschale über den Arbeitgeber.
+- [[Besteuerung pauschaler Entlastungsleistungen]] — Steuerliche Behandlung staatlicher Pauschalleistungen.
+- [[Einkommensteuer-Vorauszahlung und Pauschalleistung]] — Verrechnung pauschaler Entlastungen im Vorauszahlungsverfahren.
+- [[Einkommensteuerveranlagung und Energiepreispauschale]] — Verbindung der Pauschale mit der Einkommensteuerfestsetzung.
+- [[Einkünftebezug bei Energiepreispauschale]] — Anspruchsbezug zu bestimmten Einkunftsarten.
+- [[Energiepreispauschale als Einnahme]] — Einordnung der Energiepreispauschale als steuerpflichtige Einnahme.
+- [[Energiepreispauschale im Steuerbescheid]] — Darstellung und Verrechnung der Pauschale im Einkommensteuerbescheid.
+- [[Energiepreispauschale im Vorauszahlungsverfahren]] — Berücksichtigung der Pauschale bei Einkommensteuer-Vorauszahlungen.
+- [[Entlastungspauschale]] — Pauschaler steuerlicher Entlastungsbetrag für bestimmte Anspruchsberechtigte.
+- [[Entstehung der Energiepreispauschale]] — Zeitpunkt, zu dem der Anspruch auf die Energiepreispauschale entsteht.
+- [[Erstattungswirkung der Energiepreispauschale]] — Auszahlung oder Minderung der Steuer durch Anrechnung der Pauschale.
+- [[Festsetzung der Energiepreispauschale]] — Festsetzung der Energiepreispauschale im Rahmen der Einkommensteuerveranlagung.
+- [[Herabsetzung von Vorauszahlungen durch Energiepreispauschale]] — Minderung von Vorauszahlungen zur Auszahlung der Pauschale.
+- [[Höhe der Energiepreispauschale]] — Betrag der Energiepreispauschale.
+- [[Lohnsteuer-Anmeldung und Energiepreispauschale]] — Verrechnung der Arbeitgeberauszahlung über die Lohnsteuer-Anmeldung.
+- [[Nichtberücksichtigung als Einkommen bei Sozialleistungen]] — Ausschluss der Anrechnung der Energiepreispauschale als Einkommen bei Sozialleistungen.
+- [[Pfändungsschutz für Pauschalleistungen]] — Schutz bestimmter staatlicher Entlastungsleistungen vor Vollstreckung.
+- [[Sozialleistungsrechtliche Behandlung der Energiepreispauschale]] — Behandlung der Pauschale bei Sozialleistungen.
+- [[Steuerordnungswidrigkeit bei Energiepreispauschale]] — Bußgeldrechtliche Risiken bei falschen Angaben zur Pauschale.
+- [[Steuerpflicht der Energiepreispauschale]] — Steuerliche Erfassung der Energiepreispauschale.
+- [[Steuerstrafrecht bei Energiepreispauschale]] — Strafrechtliche Behandlung unrichtiger Angaben zur Pauschale.
+- [[Steuerverwaltungsverfahren bei Energiepreispauschale]] — Verwaltungsrechtliche Behandlung der Pauschale.
+- [[Stichtag der Energiepreispauschale]] — Maßgeblicher Zeitpunkt für Anspruchsentstehung und Auszahlung.
+- [[Straf- und Bußgeldvorschriften bei Energiepreispauschale]] — Anwendung steuerlicher Sanktionsvorschriften auf die Energiepreispauschale.
+- [[Unbeschränkte Steuerpflicht bei Energiepreispauschale]] — Steuerpflichtiger Inlandsbezug als Voraussetzung der Energiepreispauschale.
+- [[Unpfändbarkeit der Energiepreispauschale]] — Schutz der Energiepreispauschale vor Pfändung.
+- [[Veranlagungszeitraum der Energiepreispauschale]] — Zeitraum, dem die Energiepreispauschale steuerlich zugeordnet wird.
+- [[Verfahrensrecht der Energiepreispauschale]] — AO-basierte Verfahrensregeln zur Pauschale.
+- [[Besonderes Besteuerungsverfahren für Fernverkäufe und elektronische Schnittstellen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besteuerung der Kleinunternehmer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besteuerung von Reiseleistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besteuerung von Umsätzen mit Anlagegold]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besteuerungsverfahren]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Besteuerungszeitraum]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Bestimmungsmitgliedstaat]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Bestätigungsverfahren]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Betreiber]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Bußgeldvorschriften]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Differenzbesteuerung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Drittlandsgebiet]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchführung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchführung, Erstattung in Sonderfällen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchschnittssatz für Körperschaften]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchschnittssätze für land-]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Durchschnittssätze für land- und forstwirtschaftliche Betriebe]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Einfuhrumsatzsteuer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Einzelbesteuerung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Elektrizität]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Entgelt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Entstehung der Steuer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Erstattung in Sonderfällen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Fahrzeuglieferer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Fernverkauf]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Fiskalvertretung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Gemeinschaftsgebiet]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Gesonderte Erklärung innergemeinschaftlicher Lieferungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Gutschrift]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Haftung bei Abtretung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Haftung beim Handel über eine elektronische Schnittstelle]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftliche Dreiecksgeschäfte]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftliche Lieferung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftlicher Erwerb]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftlicher Erwerb durch diplomatische Missionen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftlicher Erwerb neuer Fahrzeuge]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Innergemeinschaftlicher Fernverkauf]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Juristische Personen des öffentlichen Rechts]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Kleinunternehmer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Konsignationslagerregelung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Leistungsempfänger als Steuerschuldner]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Lieferung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Lieferung, sonstige Leistung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Lohnveredelung an Gegenständen der Ausfuhr]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Meldepflicht bei der Lieferung neuer Fahrzeuge]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Meldezeitraum]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Nordirland aus der Europäischen Union]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Online-Zugriff]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Organschaft]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Beförderungsleistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferung beim Fernverkauf]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferung von Gas]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort der sonstigen Leistung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Ort des innergemeinschaftlichen Erwerbs]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Personenvereinigungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Pflichten des Fiskalvertreters]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Rechnung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Rechte]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Rechte und Pflichten des Fiskalvertreters]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Reiseleistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Restaurationsleistung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Restaurationsleistungen während einer Beförderung an Bord eines Schiffs]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Sendungsempfänger]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Sicherheitsleistung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Sonstige Leistung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbare Umsätze]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbefreiung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbefreiungen bei Lieferungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbefreiungen bei Lieferungen und sonstigen Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerbefreiungen bei der Einfuhr]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerberechnung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuernummer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuernummer und zuständiges Finanzamt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuersatz]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuerschuldner]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuersätze]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuervergütung für Leistungsbezüge europäischer Einrichtungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Strafvorschriften]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Streitkräfte der Vertragsparteien des Nordatlantikvertrags]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Umsatzsteuer-Identifikationsnummer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Umsatzsteuer-Nachschau]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Umstellung langfristiger Verträge]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Umsätze für die Seeschifffahrt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Umsätze für die Seeschifffahrt und für die Luftfahrt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Unionszollkodex]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Unrichtiger oder unberechtigter Steuerausweis]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Unternehmen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Unternehmer]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Unternehmer, Unternehmen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Untersagung der Fiskalvertretung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Verordnungsermächtigung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Verpfändung oder Pfändung von Forderungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Versagung des Vorsteuerabzugs]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Verzicht auf Steuerbefreiungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Voranmeldung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Vorlage von Urkunden]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Werklieferung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Wärme oder Kälte]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Zusammenfassende Meldung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[bestimmter sonstiger Leistungen im Besteuerungsverfahren]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[der damit zusammenhängenden sonstigen Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[forstwirtschaftliche Betriebe]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[für die Luftfahrt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[für von im Gemeinschaftsgebiet]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[in einem Luftfahrzeug oder in einer Eisenbahn]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[innergemeinschaftliche Erwerbe]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[karitativen oder erzieherischen Zwecken im Drittlandsgebiet]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[sonstige Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[sonstigen Leistungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[zuständiges Finanzamt]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[zwischenstaatliche Einrichtungen]] — Umsatzsteuerlicher Begriff aus dem UStG
+- [[Änderung der Bemessungsgrundlage]] — Umsatzsteuerlicher Begriff aus dem UStG
+
+- [[Abrechnung über die Vorauszahlungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Abschlusszahlung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Allgemeines]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Arbeitsgemeinschaften]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Arbeitslöhne]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Befreiungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Begriff der Arbeitslöhne]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Begriff der Arbeitslöhne für die Zerlegung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Besteuerungsgrundlage]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Der Ermittlung des Gewerbeertrags]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Der Ermittlung des Gewerbeertrags einer Organgesellschaft]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Die Zerlegung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Elektrofahrzeuge]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Entstehung der Vorauszahlungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Erhebungszeitraum]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Ermächtigung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Festsetzung des Steuermessbetrags]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gemeindesteuer]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gewerbeertrag]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gewerbesteuer]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gewerbesteuermessbescheid]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gewerbeverlust]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Gewinn aus Gewerbebetrieb]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Hebeberechtigte Gemeinde]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Hebesatz]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Hinzurechnungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Kalendermonaten]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Kapitalgesellschaft]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Kleinbeträge]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Kreditgarantiegemeinschaften]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Kürzungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Maßgebender Gewerbeertrag]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Mehrgemeindlichen Betriebsstätten]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Organgesellschaft]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Pauschfestsetzung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Reisegewerbebetrieb]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Sonderregelung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Steuerberechtigte]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Steuergegenstand]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Steuermessbetrag]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Steuermesszahl]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Steuermesszahl und Steuermessbetrag]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Tantieme]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Unternehmensbezogener Sanierung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Verlustfeststellungsbescheid]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Verspätungszuschlag]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Vorauszahlungen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zeitlicher Anwendungsbereich]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegung]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegung bei mehrgemeindlichen Betriebsstätten]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegung in besonderen Fällen]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegungsanteil]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegungsanteile]] — Gewerbesteuerlicher Begriff aus dem GewStG
+- [[Zerlegungsmaßstab]] — Gewerbesteuerlicher Begriff aus dem GewStG
+
+## Gesetze
+
+### EStG
+- [[EStG § 1 Steuerpflicht]] — Unbeschränkte und beschränkte Einkommensteuerpflicht natürlicher Personen
+- [[EStG § 1a]] — Erweiterte Regelungen für EU/EWR-Staatsangehörige
+- [[EStG § 2 Umfang der Besteuerung, Begriffsbestimmungen]] — Die 7 Einkunftsarten und Stufenrechnung zum zu versteuernden Einkommen
+- [[EStG § 2a Negative Einkünfte mit Bezug zu Drittstaaten]] — Verlustverrechnungsbeschränkung für Drittstaats-Einkünfte
+- [[EStG § 3]] — Katalog steuerfreier Einnahmen (73 Nummern): Sozialleistungen, Freibeträge, Photovoltaik, Trinkgelder
+- [[EStG § 3a Sanierungserträge]] — Steuerfreiheit für Sanierungserträge mit Verlust-Minderungsrangfolge
+- [[EStG § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit]] — Steuerfreie SFN-Zuschläge mit Grundlohn-Deckel 50 €/Std.
+- [[EStG § 3c Anteilige Abzüge]] — Abzugsverbot für Ausgaben im Zusammenhang mit steuerfreien Einnahmen
+- [[EStG § 4 Gewinnbegriff im Allgemeinen]] — Betriebsvermögensvergleich, Betriebsausgaben, Entnahmen, Einlagen
+- [[EStG § 4a Gewinnermittlungszeitraum, Wirtschaftsjahr]] — Abweichendes Wirtschaftsjahr bei Land-/Forstwirtschaft und Gewerbebetrieb
+- [[EStG § 4b Direktversicherung]] — Steuerliche Behandlung von Direktversicherungsbeiträgen
+- [[EStG § 4c Zuwendungen an Pensionskassen]] — Betriebsausgabenabzug für Pensionskassenbeiträge
+- [[EStG § 4d Zuwendungen an Unterstützungskassen]] — Betriebsausgabenabzug mit Höchstgrenzen nach Kassenart
+- [[EStG § 4e Beiträge an Pensionsfonds]] — Abzug von Pensionsfondsbeiträgen, Option zur 10-Jahres-Verteilung
+- [[EStG § 4f Verpflichtungsübernahmen, Schuldbeitritte und Erfüllungsübernahmen]] — 15-jährige Aufwandsverteilung bei Verpflichtungsübertragung
+- [[EStG § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3]] — Wahlrecht zum Ausgleichsposten bei Entstrickung (Verlust des deutschen Besteuerungsrechts)
+- [[EStG § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)]] — Zinsschranke: 30 % EBITDA-Grenze, Freigrenze 3 Mio. €, Zinsvortrag
+- [[EStG § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug]] — Beschränkung des Sonderbetriebsausgabenabzugs bei doppelter Berücksichtigung
+- [[EStG § 4j (weggefallen)]] — weggefallen
+- [[EStG § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen]] — Anti-Hybrid-Regelung gegen Besteuerungsinkongruenzen (BEPS)
+- [[EStG § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden]] — Maßgeblichkeitsprinzip, GoB, steuerliche Ansatzverbote für Rückstellungen
+- [[EStG § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr]] — Tonnagebesteuerung als Pauschalgewinnermittlung nach Ladekapazität
+- [[EStG § 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen]] — E-Bilanz-Pflicht (XBRL) mit Härteregelung
+- [[EStG § 6 Bewertung]] — Zentraler Bewertungsparagraph: AK/HK, Teilwert, GWG, Entnahme-/Einlagebewertung, Tausch
+- [[EStG § 6a Pensionsrückstellung]] — Ansatz, Erstbildung und Bewertung steuerlicher Pensionsrückstellungen
+- [[EStG § 6b Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter]] — Übertragung stiller Reserven auf Ersatzwirtschaftsgüter
+- [[EStG § 6c Übertragung stiller Reserven bei der Veräußerung bestimmter Anlagegüter bei der Ermittlung des Gewinns nach § 4 Absatz 3 oder nach Durchschnittssätzen]] — § 6b-Anwendung bei EÜR und Durchschnittssätzen
+- [[EStG § 6d Euroumrechnungsrücklage]] — Rücklage für Umrechnungsgewinne aus der Euro-Einführung
+- [[EStG § 6e Fondsetablierungskosten als Anschaffungskosten]] — Einordnung von Fondsetablierungskosten als Anschaffungskosten
+- [[EStG § 7 Absetzung für Abnutzung oder Substanzverringerung]] — Lineare, degressive, Leistungs-, Gebäude- und Substanz-AfA
+- [[EStG § 7a Gemeinsame Vorschriften für erhöhte Absetzungen und Sonderabschreibungen]] — Gemeinsame Regeln für erhöhte Absetzungen und Sonderabschreibungen
+- [[EStG § 7b Sonderabschreibung für Mietwohnungsneubau]] — Sonderabschreibung für neue Mietwohnungen unter Kosten- und Nutzungsvoraussetzungen
+- [[EStG §§ 7c bis 7d (weggefallen)]] — Weggefallene Vorschriften ohne materiellen Regelungsinhalt
+- [[EStG § 7e (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 7f (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 7g Investitionsabzugsbeträge und Sonderabschreibungen zur Förderung kleiner und mittlerer Betriebe]] — Investitionsabzugsbeträge und Sonderabschreibungen für KMU
+- [[EStG § 7h Erhöhte Absetzungen bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen]] — Erhöhte Absetzungen für begünstigte Sanierungs- und Entwicklungsgebietsgebäude
+- [[EStG § 7i Erhöhte Absetzungen bei Baudenkmalen]] — Erhöhte Absetzungen für Herstellungs- und Anschaffungskosten an Baudenkmalen
+- [[EStG § 7k (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 8 Einnahmen]] — Begriff und Bewertung von Einnahmen, Sachbezügen, Kfz-Nutzung und Personalrabatten
+- [[EStG § 9 Werbungskosten]] — Werbungskosten, Entfernungspauschale, Reisekosten, doppelte Haushaltsführung und Ausbildungskosten
+- [[EStG § 9a Pauschbeträge für Werbungskosten]] — Werbungskosten-Pauschbeträge für Arbeitnehmer und Versorgungsbezüge
+- [[EStG § 9b]] — Behandlung abziehbarer Vorsteuer bei Anschaffungs- und Herstellungskosten
+- [[EStG § 10]] — Sonderausgaben: Vorsorgeaufwendungen, Unterhalt, Kirchensteuer, Kinderbetreuung und Schulgeld
+- [[EStG § 10a Zusätzliche Altersvorsorge]] — Sonderausgabenabzug und Zulage für zusätzliche Altersvorsorge
+- [[EStG § 10b Steuerbegünstigte Zwecke]] — Zuwendungsabzug für Spenden, Mitgliedsbeiträge und Stiftungen
+- [[EStG § 10c Sonderausgaben-Pauschbetrag]] — Pauschbetrag für bestimmte Sonderausgaben
+- [[EStG § 10d Verlustabzug]] — Verlustrücktrag, Verlustvortrag und Feststellung verbleibender Verlustvorträge
+- [[EStG § 10e Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus]] — Eigenheim-Abzugsbeträge für selbstgenutzte Wohnungen
+- [[EStG § 10f Steuerbegünstigung für zu eigenen Wohnzwecken genutzte Baudenkmale und Gebäude in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen]] — Sonderausgabenähnlicher Abzug für eigengenutzte Denkmale und Sanierungsgebäude
+- [[EStG § 10g Steuerbegünstigung für schutzwürdige Kulturgüter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden]] — Sonderausgabenähnlicher Abzug für schutzwürdige Kulturgüter
+- [[EStG § 10h (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 10i (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 11]] — Zufluss- und Abflussprinzip für Einnahmen und Ausgaben
+- [[EStG § 11a Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen]] — Verteilung von Erhaltungsaufwand auf zwei bis fünf Jahre
+- [[EStG § 11b Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen]] — Verteilung von Erhaltungsaufwand an Baudenkmalen auf zwei bis fünf Jahre
+- [[EStG § 12 Nicht abzugsfähige Ausgaben]] — Abzugsverbot für private Lebensführung, Personensteuern, Geldstrafen und freiwillige Zuwendungen
+- [[EStG § 13 Einkünfte aus Land- und Forstwirtschaft]] — Definition der LuF-Einkünfte: Landwirtschaft, Forstwirtschaft, Tierzucht, Vieheinheitengrenzen, Freibetrag 900 €
+- [[EStG § 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen]] — Vereinfachte Gewinnermittlung für kleine LuF-Betriebe nach Grundbeträgen und Vieheinheiten
+- [[EStG § 13b Gemeinschaftliche Tierhaltung]] — LuF-Einkünfte bei gemeinschaftlicher Tierhaltung in Genossenschaften und Gesellschaften
+- [[EStG § 14 Veräußerung des Betriebs]] — Gewinne aus Veräußerung land- und forstwirtschaftlicher Betriebe als LuF-Einkünfte
+- [[EStG § 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe]] — Historische Freibetragsregelungen für LuF-Betriebsveräußerungen und Grundstücksverkäufe
+- [[EStG § 15 Einkünfte aus Gewerbebetrieb]] — Definition Gewerbebetrieb, Mitunternehmer, Sondervergütungen, gewerblich geprägte PersG, Verlustausgleichsverbote
+- [[EStG § 15a Verluste bei beschränkter Haftung]] — Verlustverrechnungsbeschränkung für Kommanditisten bei negativem Kapitalkonto
+- [[EStG § 15b Verluste im Zusammenhang mit Steuerstundungsmodellen]] — Verlustverrechnungsverbot für modellhafte Steuerstundungsgestaltungen (10%-Schwelle)
+- [[EStG § 16 Veräußerung des Betriebs]] — Besteuerung von Betriebsveräußerungs- und -aufgabegewinnen, Realteilung, Freibetrag 45.000 €
+- [[EStG § 17 Veräußerung von Anteilen an Kapitalgesellschaften]] — Besteuerung von Gewinnen aus Veräußerung wesentlicher Beteiligungen (≥ 1 %), Freibetrag 9.060 €
+- [[EStG § 18]] — Einkünfte aus selbständiger Arbeit: freiberufliche Tätigkeit, Berufskatalog, leitende Eigenverantwortlichkeit
+- [[EStG § 19]] — Einkünfte aus nichtselbständiger Arbeit: Lohn, Gehalt, Betriebsveranstaltungen (110 €), Versorgungsfreibetrag-Tabelle
+- [[EStG § 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen]] — Aufgeschobene Besteuerung von Mitarbeiterbeteiligungen bei Start-ups/KMU (Grenze: KMU × 2/4, ≤ 20 Jahre)
+- [[EStG § 20 Einkünfte aus Kapitalvermögen]] — Dividenden, Zinsen, Veräußerungsgewinne, Abgeltungsteuer, Sparer-Pauschbetrag 1.000 €
+- [[EStG § 21 Einkünfte aus Vermietung und Verpachtung]] — Vermietung/Verpachtung von Grundstücken, Gebäuden, Rechten; 66-%-Grenze bei verbilligter Wohnungsvermietung
+- [[EStG § 22 Arten der sonstigen Einkünfte]] — Wiederkehrende Bezüge, gesetzliche Renten (Besteuerungsanteil), private Leibrenten (Ertragsanteil), private Veräußerungsgeschäfte, Altersvorsorgeleistungen
+- [[EStG § 22a Rentenbezugsmitteilungen an die zentrale Stelle]] — Meldepflicht der Rentenversicherungsträger; Verspätungsgeld 10 €/Monat
+- [[EStG § 23 Private Veräußerungsgeschäfte]] — Spekulationsfristen 10 Jahre (Grundstücke) / 1 Jahr (sonstige); Freigrenze 1.000 €; Selbstnutzungsausnahme
+- [[EStG § 24 Ergänzende Einkünfte]] — Entschädigungen für entgangene Einnahmen, ehemalige Tätigkeiten, Nutzungsvergütungen für öffentliche Zwecke
+- [[EStG § 24a Altersentlastungsbetrag]] — Abzugsbetrag für Personen ab 64 Jahren; Kohortenprinzip; 2026: 12,8 %, max. 608 €
+- [[EStG § 24b Entlastungsbetrag für Alleinerziehende]] — 4.260 € + 240 € je weiteres Kind; allein stehend ohne Haushaltsgemeinschaft
+- [[EStG § 25 Veranlagungszeitraum, Steuererklärungspflicht]] — Veranlagung nach Kalenderjahr; elektronische Übermittlungspflicht bei Einkünften aus LuF, Gewerbebetrieb, selbständiger Arbeit
+- [[EStG § 26 Veranlagung von Ehegatten]] — Wahl zwischen Einzel- und Zusammenveranlagung von Ehegatten
+- [[EStG § 26a Einzelveranlagung von Ehegatten]] — Zurechnung von Einkünften und Aufwendungen bei Einzelveranlagung
+- [[EStG § 26b Zusammenveranlagung von Ehegatten]] — Zusammenrechnung und gemeinsame Zurechnung der Ehegatteneinkünfte
+- [[EStG § 27 (weggefallen)]] — Weggefallene Vorschrift
+- [[EStG § 28 Besteuerung bei fortgesetzter Gütergemeinschaft]] — Zurechnung von Gesamtgut-Einkünften an den überlebenden Ehegatten
+- [[EStG §§ 29 und 30 (weggefallen)]] — Weggefallene Vorschriften
+- [[EStG § 31 Familienleistungsausgleich]] — Zusammenspiel von Kindergeld und Kinderfreibeträgen
+- [[EStG § 32 Kinder, Freibeträge für Kinder]] — Berücksichtigung von Kindern und Kinderfreibeträge
+- [[EStG § 32a Einkommensteuertarif]] — Grundtarif, Progressionszonen und Splitting-Verfahren
+- [[EStG § 32b Progressionsvorbehalt]] — Besonderer Steuersatz für steuerfreie Lohnersatzleistungen und bestimmte ausländische Einkünfte
+- [[EStG § 32c Tarifermäßigung bei Einkünften aus Land- und Forstwirtschaft]] — Dreijährige Tarifglättung für Einkünfte aus Land- und Forstwirtschaft
+- [[EStG § 32d Gesonderter Steuertarif für Einkünfte aus Kapitalvermögen]] — Abgeltungsteuertarif von 25 Prozent, Ausnahmen und Günstigerprüfung für Kapitaleinkünfte
+- [[EStG § 33 Außergewöhnliche Belastungen]] — Abzug zwangsläufiger außergewöhnlicher Aufwendungen oberhalb der zumutbaren Belastung
+- [[EStG § 33a Außergewöhnliche Belastung in besonderen Fällen]] — Unterhaltsaufwendungen und Ausbildungsfreibetrag als besondere außergewöhnliche Belastungen
+- [[EStG § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen]] — Pauschbeträge für Behinderung, Hinterbliebene und Pflege
+- [[EStG § 34 Außerordentliche Einkünfte]] — Tarifermäßigung für außerordentliche Einkünfte und Veräußerungsgewinne
+- [[EStG § 34a Begünstigung der nicht entnommenen Gewinne]] — Thesaurierungsbegünstigung und Nachversteuerung betrieblicher Gewinne
+- [[EStG § 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen]] — Sondersteuersätze für außerordentliche Holznutzungen
+- [[EStG § 34c]] — Anrechnung oder Abzug ausländischer Steuern
+- [[EStG § 34d Ausländische Einkünfte]] — Katalog ausländischer Einkünfte für § 34c
+- [[EStG § 34e (weggefallen)]] — Weggefallene Vorschrift
+- [[EStG § 34f]] — Steuerermäßigung für Kinder bei alten Wohneigentumsbegünstigungen
+
+- [[EStG § 34g]] — Steuerermäßigung für Beiträge und Spenden an Parteien und Wahlvereine
+- [[EStG § 35]] — Gewerbesteuer-Anrechnung auf die Einkommensteuer bei gewerblichen Einkünften
+- [[EStG § 35a Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen]] — Steuerermäßigung für Haushalt, Pflege und Handwerkerleistungen
+- [[EStG § 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer]] — Entlastung bei Doppelbelastung mit Erbschaftsteuer und Einkommensteuer
+- [[EStG § 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden]] — Steuerermäßigung für energetische Sanierung selbstgenutzter Gebäude
+- [[EStG § 36 Entstehung und Tilgung der Einkommensteuer]] — Entstehung, Anrechnung und Abrechnung der Einkommensteuer
+- [[EStG § 36a Beschränkung der Anrechenbarkeit der Kapitalertragsteuer]] — Haltedauer- und Risikoregeln für Kapitalertragsteuer-Anrechnung
+- [[EStG § 37 Einkommensteuer-Vorauszahlung]] — Festsetzung und Zahlung quartalsweiser Einkommensteuer-Vorauszahlungen
+- [[EStG § 37a Pauschalierung der Einkommensteuer durch Dritte]] — Pauschale Einkommensteuer auf bestimmte Sachprämien
+- [[EStG § 37b Pauschalierung der Einkommensteuer bei Sachzuwendungen]] — Pauschale Einkommensteuer auf betriebliche Sachzuwendungen und Geschenke
+
+- [[EStG § 38 Erhebung der Lohnsteuer]] — Erhebung der Einkommensteuer durch Lohnsteuerabzug vom Arbeitslohn
+- [[EStG § 38a Höhe der Lohnsteuer]] — Berechnung der Jahreslohnsteuer und Lohnsteuer für laufenden Arbeitslohn und sonstige Bezüge
+- [[EStG § 38b Lohnsteuerklassen, Zahl der Kinderfreibeträge]] — Lohnsteuerklassen I bis VI und Kinderfreibetragszähler für den Lohnsteuerabzug
+- [[EStG § 39 Lohnsteuerabzugsmerkmale]] — Bildung, Zuständigkeit und Bescheinigung von Lohnsteuerabzugsmerkmalen
+- [[EStG § 39a Freibetrag und Hinzurechnungsbetrag]] — Freibeträge und Hinzurechnungsbeträge für den Lohnsteuerabzug
+
+- [[EStG § 39b Einbehaltung der Lohnsteuer]] — Berechnung und Einbehaltung der Lohnsteuer bei laufendem Arbeitslohn und sonstigen Bezügen
+- [[EStG § 39c Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale]] — Lohnsteuerabzug bei fehlenden oder nicht abrufbaren Lohnsteuerabzugsmerkmalen
+- [[EStG § 39d (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 39e Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale]] — ELStAM-Verfahren zur elektronischen Bildung und Anwendung von Lohnsteuerabzugsmerkmalen
+- [[EStG § 39f Faktorverfahren anstelle Steuerklassenkombination III-V]] — Faktorverfahren für Ehegatten anstelle der Steuerklassenkombination III-V
+- [[EStG § 40 Pauschalierung der Lohnsteuer in besonderen Fällen]] — Pauschalierung der Lohnsteuer in besonderen Fällen
+- [[EStG § 40a Pauschalierung der Lohnsteuer für Teilzeitbeschäftigte und geringfügig Beschäftigte]] — Pauschalierung für kurzfristige und geringfügige Beschäftigung
+- [[EStG § 40b Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen]] — Pauschalierung bestimmter Zukunftssicherungsleistungen
+- [[EStG § 41 Aufzeichnungspflichten beim Lohnsteuerabzug]] — Lohnkonto und Aufzeichnungspflichten beim Lohnsteuerabzug
+
+- [[EStG § 41a Anmeldung und Abführung der Lohnsteuer]] — Lohnsteuer-Anmeldung und Abführung durch den Arbeitgeber
+- [[EStG § 41b Abschluss des Lohnsteuerabzugs]] — Elektronische Lohnsteuerbescheinigung und Abschluss des Lohnsteuerabzugs
+- [[EStG § 41c Änderung des Lohnsteuerabzugs]] — Korrektur des Lohnsteuerabzugs durch Erstattung oder Nacherhebung
+- [[EStG §§ 42 und 42a (weggefallen)]] — Weggefallene Vorschriften ohne materiellen Regelungsinhalt
+- [[EStG § 42b Lohnsteuer-Jahresausgleich durch den Arbeitgeber]] — Lohnsteuer-Jahresausgleich durch den Arbeitgeber
+- [[EStG § 42c (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 42d Haftung des Arbeitgebers und Haftung bei Arbeitnehmerüberlassung]] — Arbeitgeberhaftung für Lohnsteuer und Haftung bei Arbeitnehmerüberlassung
+- [[EStG § 42e Anrufungsauskunft]] — Anrufungsauskunft zur lohnsteuerlichen Behandlung
+- [[EStG § 42f Lohnsteuer-Außenprüfung]] — Lohnsteuer-Außenprüfung durch das Betriebsstättenfinanzamt
+- [[EStG § 42g Lohnsteuer-Nachschau]] — Lohnsteuer-Nachschau als zeitnahes Prüfungsverfahren
+- [[EStG § 43 Kapitalerträge mit Steuerabzug]] — Katalog der Kapitalerträge mit Kapitalertragsteuerabzug
+
+- [[EStG § 43a Bemessung der Kapitalertragsteuer]] — Steuersätze, Bemessungsgrundlage und Verlustverrechnung bei Kapitalertragsteuer
+- [[EStG § 43b Bemessung der Kapitalertragsteuer bei bestimmten Gesellschaften]] — Kapitalertragsteuerentlastung für EU-Mutter- und Tochtergesellschaften
+- [[EStG § 44 Entrichtung der Kapitalertragsteuer]] — Entrichtung, Anmeldung und Abführung der Kapitalertragsteuer
+- [[EStG § 44a Abstandnahme vom Steuerabzug]] — Abstandnahme vom Kapitalertragsteuerabzug bei Freistellung und Sonderfällen
+
+- [[EStG § 44b Erstattung der Kapitalertragsteuer]] — Erstattung und Korrektur einbehaltener Kapitalertragsteuer
+- [[EStG § 45 Ausschluss der Erstattung von Kapitalertragsteuer]] — Ausschluss der Erstattung oder Anrechnung von Kapitalertragsteuer
+- [[EStG § 45a Anmeldung und Bescheinigung der Kapitalertragsteuer]] — Anmeldung und Bescheinigung der Kapitalertragsteuer
+- [[EStG § 45b Angaben zur Bescheinigung und Abführung der Kapitalertragsteuer]] — Datensatzangaben zu Bescheinigung und Abführung der Kapitalertragsteuer
+- [[EStG § 45c Zusammengefasste Mitteilung zur Bescheinigung und Abführung der Kapitalertragsteuer]] — Zusammengefasste Mitteilungen zur Kapitalertragsteuer an das BZSt
+- [[EStG § 45d Mitteilungen an das Bundeszentralamt für Steuern]] — Mitteilungen zu Freistellungsaufträgen und Nichtveranlagung an das BZSt
+- [[EStG § 45e Ermächtigung für Zinsinformationsverordnung]] — Verordnungsermächtigung zur Zinsertragsbesteuerung
+- [[EStG § 46 Veranlagung bei Bezug von Einkünften aus nichtselbständiger Arbeit]] — Veranlagung bei Arbeitnehmern mit Lohnsteuerabzug
+- [[EStG § 47 (weggefallen)]] — Weggefallene Vorschrift ohne materiellen Regelungsinhalt
+- [[EStG § 48 Steuerabzug]] — Bauabzugsteuer bei Bauleistungen
+- [[EStG § 48a Verfahren]] — Anmeldung, Abführung und Haftung beim Bau-Steuerabzug
+- [[EStG § 48b Freistellungsbescheinigung]] — Freistellungsbescheinigung für Bauleistungen
+
+- [[EStG § 48c Anrechnung]] — Anrechnung und Erstattung der Bauabzugsteuer
+- [[EStG § 48d Besonderheiten im Fall von Doppelbesteuerungsabkommen]] — DBA-Besonderheiten beim Steuerabzug für Bauleistungen
+- [[EStG § 49 Beschränkt steuerpflichtige Einkünfte]] — Katalog beschränkt steuerpflichtiger inländischer Einkünfte
+- [[EStG § 50 Sondervorschriften für beschränkt Steuerpflichtige]] — Sondervorschriften zur Besteuerung beschränkt Steuerpflichtiger
+- [[EStG § 50a Steuerabzug bei beschränkt Steuerpflichtigen]] — Quellensteuerabzug bei Vergütungen an beschränkt Steuerpflichtige
+- [[EStG § 50b Prüfungsrecht]] — Prüfungsrecht für den Steuerabzug bei beschränkt Steuerpflichtigen
+- [[EStG § 50c Entlastung vom Steuerabzug in bestimmten Fällen]] — Freistellung und Erstattung vom Steuerabzug
+- [[EStG § 50d Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung]] — DBA-Anwendung, Entlastung und Anti-Treaty-Shopping-Regeln
+- [[EStG § 50e Bußgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringfügiger Beschäftigung in Privathaushalten]] — Bußgeld- und Nichtverfolgungsregeln im Steuerabzugskontext
+
+- [[EStG § 50f Bußgeldvorschriften]] — Bußgeld bei Verstößen gegen Rentenbezugsmitteilungen
+- [[EStG § 50g Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgebühren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europäischen Union]] — EU-Quellensteuerentlastung für Zinsen und Lizenzgebühren verbundener Unternehmen
+- [[EStG § 50h Bestätigung für Zwecke der Entlastung von Quellensteuern in einem anderen Mitgliedstaat der Europäischen Union oder der Schweizerischen Eidgenossenschaft]] — Ansässigkeitsbestätigung für ausländische Quellensteuerentlastung
+- [[EStG § 50i Besteuerung bestimmter Einkünfte und Anwendung von Doppelbesteuerungsabkommen]] — DBA-durchbrechende Besteuerung bestimmter stiller Reserven
+- [[EStG § 50j Versagung der Entlastung von Kapitalertragsteuern in bestimmten Fällen]] — Versagung von Kapitalertragsteuerentlastung bei schädlichen Dividendenstrukturen
+- [[EStG § 51 Ermächtigungen]] — Verordnungsermächtigungen zur Durchführung des EStG
+- [[EStG § 51a Festsetzung und Erhebung von Zuschlagsteuern]] — Festsetzung und Erhebung von Zuschlagsteuern
+
+- [[EStG § 52 Anwendungsvorschriften]] — Anwendungsvorschriften
+- [[EStG § 52a (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 52b (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 53 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 54 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 55 Schlussvorschriften (Sondervorschriften für die Gewinnermittlung nach § 4 oder nach Durchschnittssätzen bei vor dem 1. Juli 1970 angeschafftem Grund und Boden)]] — Alt-Grundstücke bei Gewinnermittlung
+- [[EStG § 56 Sondervorschriften für Steuerpflichtige in dem in Artikel 3 des Einigungsvertrages genannten Gebiet]] — Sonderregeln für das Beitrittsgebiet
+- [[EStG § 57 Besondere Anwendungsregeln aus Anlass der Herstellung der Einheit Deutschlands]] — Anwendungsregeln zur deutschen Einheit
+- [[EStG § 58 Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben]] — Fortgeltung früherer Rechtsvorschriften
+- [[EStG §§ 59 bis 61 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 62 Anspruchsberechtigte]] — Anspruchsberechtigte
+
+- [[EStG § 63 Kinder]] — Kinderbegriff für Kindergeld
+- [[EStG § 64 Zusammentreffen mehrerer Ansprüche]] — Vorrang bei mehreren Kindergeldansprüchen
+- [[EStG § 65 Andere Leistungen für Kinder]] — Ausschluss und Kürzung bei anderen Kinderleistungen
+- [[EStG § 66 Höhe des Kindergeldes, Zahlungszeitraum]] — Kindergeldhöhe und Zahlungszeitraum
+- [[EStG § 67 Antrag]] — Antrag auf Kindergeld
+- [[EStG § 68 Besondere Mitwirkungspflichten und Offenbarungsbefugnis]] — Mitwirkungspflichten im Kindergeldverfahren
+- [[EStG § 69 Datenübermittlung an die Familienkassen]] — Datenübermittlung an Familienkassen
+- [[EStG § 70 Festsetzung und Zahlung des Kindergeldes]] — Festsetzung und Zahlung von Kindergeld
+- [[EStG § 71 Vorläufige Einstellung der Zahlung des Kindergeldes]] — Vorläufige Einstellung der Kindergeldzahlung
+- [[EStG § 72 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 73 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 74 Zahlung des Kindergeldes in Sonderfällen]] — Auszahlung in Kindergeld-Sonderfällen
+- [[EStG § 75 Aufrechnung]] — Aufrechnung mit Kindergeld
+- [[EStG § 76 Pfändung]] — Pfändung und Pfändungsschutz beim Kindergeld
+- [[EStG § 76a (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[EStG § 77 Erstattung von Kosten im Vorverfahren]] — Kostenerstattung im Kindergeld-Vorverfahren
+- [[EStG § 78 Übergangsregelungen]] — Übergangsregeln im Kindergeldrecht
+- [[EStG § 79 Zulageberechtigte]] — Personenkreis der Altersvorsorgezulage
+- [[EStG § 80 Anbieter]] — Anbieter im Altersvorsorgezulageverfahren
+- [[EStG § 81 Zentrale Stelle]] — Zentrale Stelle für Altersvorsorgezulage
+- [[EStG § 81a Zuständige Stelle]] — Zuständige Stellen im Zulageverfahren
+- [[EStG § 82 Altersvorsorgebeiträge]] — Begünstigte Altersvorsorgebeiträge
+- [[EStG § 83 Altersvorsorgezulage]] — Anspruch auf Altersvorsorgezulage
+- [[EStG § 84 Grundzulage]] — Grundzulage der Riester-Förderung
+- [[EStG § 85 Kinderzulage]] — Kinderzulage der Riester-Förderung
+- [[EStG § 86 Mindesteigenbeitrag]] — Eigenbeitrag für volle Altersvorsorgezulage
+- [[EStG § 87 Zusammentreffen mehrerer Verträge]] — Zulage bei mehreren Altersvorsorgeverträgen
+- [[EStG § 88 Entstehung des Anspruchs auf Zulage]] — Entstehung des Zulageanspruchs
+- [[EStG § 89 Antrag]] — Antrag auf Altersvorsorgezulage
+- [[EStG § 90 Verfahren]] — Verfahren der Altersvorsorgezulage
+- [[EStG § 91 Datenerhebung und Datenabgleich]] — Datenerhebung und Datenabgleich im Zulageverfahren
+- [[EStG § 92 Bescheinigung]] — Jahresbescheinigung zur Altersvorsorgezulage
+- [[EStG § 92a Verwendung für eine selbst genutzte Wohnung]] — Wohn-Riester und selbst genutzte Wohnung
+- [[EStG § 92b Verfahren bei Verwendung für eine selbst genutzte Wohnung]] — Verfahren für Wohn-Riester-Verwendung
+- [[EStG § 93 Schädliche Verwendung]] — Rückabwicklung bei schädlicher Verwendung
+- [[EStG § 94 Verfahren bei schädlicher Verwendung]] — Verfahren bei schädlicher Verwendung
+- [[EStG § 95 Sonderfälle der Rückzahlung]] — Sonderfälle der Rückzahlung von Förderung
+- [[EStG § 96 Anwendung der Abgabenordnung, allgemeine Vorschriften]] — AO-Anwendung und allgemeine Zulagevorschriften
+- [[EStG § 97 Übertragbarkeit]] — Übertragung von Altersvorsorgevermögen
+- [[EStG § 98 Rechtsweg]] — Rechtsweg im Zulageverfahren
+- [[EStG § 99 Ermächtigung]] — Verordnungsermächtigung zur Altersvorsorgezulage
+- [[EStG § 100 Förderbetrag zur betrieblichen Altersversorgung]] — bAV-Förderbetrag für Arbeitgeberbeiträge
+- [[EStG § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie]] — Bemessung und Höhe der Mobilitätsprämie
+- [[EStG § 102 Anspruchsberechtigung]] — Anspruchsberechtigung für Mobilitätsprämie
+- [[EStG § 103 Entstehung der Mobilitätsprämie]] — Entstehung der Mobilitätsprämie
+- [[EStG § 104 Antrag auf die Mobilitätsprämie]] — Antrag auf Mobilitätsprämie
+- [[EStG § 105 Festsetzung und Auszahlung der Mobilitätsprämie]] — Festsetzung und Auszahlung der Mobilitätsprämie
+- [[EStG § 106 Ertragsteuerliche Behandlung der Mobilitätsprämie]] — Steuerliche Behandlung der Mobilitätsprämie
+- [[EStG § 107 Anwendung der Abgabenordnung]] — AO-Anwendung auf Mobilitätsprämie
+- [[EStG § 108 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung]] — Straf- und Bußgeldregeln zur Mobilitätsprämie
+- [[EStG § 109 Verordnungsermächtigung]] — Verordnungsermächtigung zur Mobilitätsprämie
+- [[EStG § 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019]] — Vorauszahlungsanpassung für 2019
+- [[EStG § 111 Vorläufiger Verlustrücktrag für 2020 und 2021]] — Vorläufiger Verlustrücktrag 2020/2021
+- [[EStG § 112 Veranlagungszeitraum, Höhe]] — Veranlagungszeitraum und Höhe der Energiepreispauschale
+- [[EStG § 113 Anspruchsberechtigung]] — Anspruchsberechtigung für Energiepreispauschale
+- [[EStG § 114 Entstehung des Anspruchs]] — Entstehung des Anspruchs auf Energiepreispauschale
+- [[EStG § 115 Festsetzung mit der Einkommensteuerveranlagung]] — Festsetzung mit der Einkommensteuerveranlagung
+- [[EStG § 116 Anrechnung auf die Einkommensteuer]] — Anrechnung der Energiepreispauschale
+- [[EStG § 117 Auszahlung an Arbeitnehmer]] — Auszahlung der Energiepreispauschale an Arbeitnehmer
+- [[EStG § 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren]] — Energiepreispauschale bei Vorauszahlungen
+- [[EStG § 119 Steuerpflicht]] — Steuerpflicht der Energiepreispauschale
+- [[EStG § 120 Anwendung der Abgabenordnung]] — AO-Anwendung auf Energiepreispauschale
+- [[EStG § 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung]] — Straf- und Bußgeldregeln zur Energiepreispauschale
+- [[EStG § 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit]] — Sozialleistungs- und Pfändungsschutz
+### UStG
+- [[UStG § 1 Steuerbare Umsätze]] — Steuerbare Umsätze
+- [[UStG § 1a Innergemeinschaftlicher Erwerb]] — Innergemeinschaftlicher Erwerb
+- [[UStG § 1b Innergemeinschaftlicher Erwerb neuer Fahrzeuge]] — Innergemeinschaftlicher Erwerb neuer Fahrzeuge
+- [[UStG § 1c Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags]] — Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags
+- [[UStG § 2 Unternehmer, Unternehmen]] — Unternehmer, Unternehmen
+- [[UStG § 2a Fahrzeuglieferer]] — Fahrzeuglieferer
+- [[UStG § 2b Juristische Personen des öffentlichen Rechts]] — Juristische Personen des öffentlichen Rechts
+- [[UStG § 3 Lieferung, sonstige Leistung]] — Lieferung, sonstige Leistung
+- [[UStG § 3a Ort der sonstigen Leistung]] — Ort der sonstigen Leistung
+- [[UStG § 3b Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen]] — Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
+- [[UStG § 3c Ort der Lieferung beim Fernverkauf]] — Ort der Lieferung beim Fernverkauf
+- [[UStG § 3d Ort des innergemeinschaftlichen Erwerbs]] — Ort des innergemeinschaftlichen Erwerbs
+- [[UStG § 3e Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn]] — Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn
+- [[UStG § 3f (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[UStG § 3g Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte]] — Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte
+- [[UStG § 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen]] — Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
+- [[UStG § 4a Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet]] — Steuervergütung für Leistungsbezüge zur Verwendung zu humanitären, karitativen oder erzieherischen Zwecken im Drittlandsgebiet
+- [[UStG § 4b Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen]] — Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
+- [[UStG § 4c Steuervergütung für Leistungsbezüge europäischer Einrichtungen]] — Steuervergütung für Leistungsbezüge europäischer Einrichtungen
+- [[UStG § 5 Steuerbefreiungen bei der Einfuhr]] — Steuerbefreiungen bei der Einfuhr
+- [[UStG § 6 Ausfuhrlieferung]] — Ausfuhrlieferung
+- [[UStG § 6a Innergemeinschaftliche Lieferung]] — Innergemeinschaftliche Lieferung
+- [[UStG § 6b Konsignationslagerregelung]] — Konsignationslagerregelung
+- [[UStG § 7 Lohnveredelung an Gegenständen der Ausfuhr]] — Lohnveredelung an Gegenständen der Ausfuhr
+- [[UStG § 8 Umsätze für die Seeschifffahrt und für die Luftfahrt]] — Umsätze für die Seeschifffahrt und für die Luftfahrt
+- [[UStG § 9 Verzicht auf Steuerbefreiungen]] — Verzicht auf Steuerbefreiungen
+- [[UStG § 10 Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe]] — Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe
+- [[UStG § 11 Bemessungsgrundlage für die Einfuhr]] — Bemessungsgrundlage für die Einfuhr
+- [[UStG § 12 Steuersätze]] — Steuersätze
+- [[UStG § 13 Entstehung der Steuer]] — Entstehung der Steuer
+- [[UStG § 13a Steuerschuldner]] — Steuerschuldner
+- [[UStG § 13b Leistungsempfänger als Steuerschuldner]] — Leistungsempfänger als Steuerschuldner
+- [[UStG § 13c Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen]] — Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen
+- [[UStG § 13d (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[UStG § 14 Ausstellung von Rechnungen]] — Ausstellung von Rechnungen
+- [[UStG § 14a Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen]] — Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
+- [[UStG § 14b Aufbewahrung von Rechnungen]] — Aufbewahrung von Rechnungen
+- [[UStG § 14c Unrichtiger oder unberechtigter Steuerausweis]] — Unrichtiger oder unberechtigter Steuerausweis
+- [[UStG § 15 Vorsteuerabzug]] — Vorsteuerabzug
+- [[UStG § 15a Berichtigung des Vorsteuerabzugs]] — Berichtigung des Vorsteuerabzugs
+- [[UStG § 16 Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung]] — Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung
+- [[UStG § 17 Änderung der Bemessungsgrundlage]] — Änderung der Bemessungsgrundlage
+- [[UStG § 18 Besteuerungsverfahren]] — Besteuerungsverfahren
+- [[UStG § 18a Zusammenfassende Meldung]] — Zusammenfassende Meldung
+- [[UStG § 18b Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren]] — Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren
+- [[UStG § 18c Meldepflicht bei der Lieferung neuer Fahrzeuge]] — Meldepflicht bei der Lieferung neuer Fahrzeuge
+- [[UStG § 18d Vorlage von Urkunden]] — Vorlage von Urkunden
+- [[UStG § 18e Bestätigungsverfahren]] — Bestätigungsverfahren
+- [[UStG § 18f Sicherheitsleistung]] — Sicherheitsleistung
+- [[UStG § 18g Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat]] — Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
+- [[UStG § 18h Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat]] — Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
+- [[UStG § 18i Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen]] — Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
+- [[UStG § 18j Besonderes Besteuerungsverfahren für Fernverkäufe und elektronische Schnittstellen]] — Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen
+- [[UStG § 18k Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro]] — Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro
+- [[UStG § 19 Besteuerung der Kleinunternehmer]] — Besteuerung der Kleinunternehmer
+- [[UStG § 19a Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat]] — Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat
+- [[UStG § 20 Berechnung der Steuer nach vereinnahmten Entgelten]] — Berechnung der Steuer nach vereinnahmten Entgelten
+- [[UStG § 21 Besondere Vorschriften für die Einfuhrumsatzsteuer]] — Besondere Vorschriften für die Einfuhrumsatzsteuer
+- [[UStG § 21a Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro]] — Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro
+- [[UStG § 21b Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union]] — Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union
+- [[UStG § 22 Aufzeichnungspflichten]] — Aufzeichnungspflichten
+- [[UStG § 22a Fiskalvertretung]] — Fiskalvertretung
+- [[UStG § 22b Rechte und Pflichten des Fiskalvertreters]] — Rechte und Pflichten des Fiskalvertreters
+- [[UStG § 22c Ausstellung von Rechnungen im Falle der Fiskalvertretung]] — Ausstellung von Rechnungen im Falle der Fiskalvertretung
+- [[UStG § 22d Steuernummer und zuständiges Finanzamt]] — Steuernummer und zuständiges Finanzamt
+- [[UStG § 22e Untersagung der Fiskalvertretung]] — Untersagung der Fiskalvertretung
+- [[UStG § 22f Besondere Pflichten für Betreiber einer elektronischen Schnittstelle]] — Besondere Pflichten für Betreiber einer elektronischen Schnittstelle
+- [[UStG § 22g Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung]] — Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung
+- [[UStG § 23 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[UStG § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes]] — Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
+- [[UStG § 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe]] — Durchschnittssätze für land- und forstwirtschaftliche Betriebe
+- [[UStG § 25 Besteuerung von Reiseleistungen]] — Besteuerung von Reiseleistungen
+- [[UStG § 25a Differenzbesteuerung]] — Differenzbesteuerung
+- [[UStG § 25b Innergemeinschaftliche Dreiecksgeschäfte]] — Innergemeinschaftliche Dreiecksgeschäfte
+- [[UStG § 25c Besteuerung von Umsätzen mit Anlagegold]] — Besteuerung von Umsätzen mit Anlagegold
+- [[UStG § 25d (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[UStG § 25e Haftung beim Handel über eine elektronische Schnittstelle]] — Haftung beim Handel über eine elektronische Schnittstelle
+- [[UStG § 25f Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung]] — Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
+- [[UStG § 26 Durchführung, Erstattung in Sonderfällen]] — Durchführung, Erstattung in Sonderfällen
+- [[UStG § 26a Bußgeldvorschriften]] — Bußgeldvorschriften
+- [[UStG § 26b (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[UStG § 26c Strafvorschriften]] — Strafvorschriften
+- [[UStG § 27 Allgemeine Übergangsvorschriften]] — Allgemeine Übergangsvorschriften
+- [[UStG § 27a Umsatzsteuer-Identifikationsnummer]] — Umsatzsteuer-Identifikationsnummer
+- [[UStG § 27b Umsatzsteuer-Nachschau]] — Umsatzsteuer-Nachschau
+- [[UStG § 28 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften]] — Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
+- [[UStG § 29 Umstellung langfristiger Verträge]] — Umstellung langfristiger Verträge
+- [[UStG § 30 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union]] — Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+### GewStG
+- [[GewStG § 1 Steuerberechtigte]] — Steuerberechtigte
+- [[GewStG § 2 Steuergegenstand]] — Steuergegenstand
+- [[GewStG § 2a Arbeitsgemeinschaften]] — Arbeitsgemeinschaften
+- [[GewStG § 3 Befreiungen]] — Befreiungen
+- [[GewStG § 4 Hebeberechtigte Gemeinde]] — Hebeberechtigte Gemeinde
+- [[GewStG § 5 Steuerschuldner]] — Steuerschuldner
+- [[GewStG § 6 Besteuerungsgrundlage]] — Besteuerungsgrundlage
+- [[GewStG § 7 Gewerbeertrag]] — Gewerbeertrag
+- [[GewStG § 7a Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft]] — Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
+- [[GewStG § 7b Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung]] — Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
+- [[GewStG § 8 Hinzurechnungen]] — Hinzurechnungen
+- [[GewStG § 8a (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 9 Kürzungen]] — Kürzungen
+- [[GewStG § 10 Maßgebender Gewerbeertrag]] — Maßgebender Gewerbeertrag
+- [[GewStG § 10a Gewerbeverlust]] — Gewerbeverlust
+- [[GewStG § 11 Steuermesszahl und Steuermessbetrag]] — Steuermesszahl und Steuermessbetrag
+- [[GewStG §§ 12 und 13 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 14 Festsetzung des Steuermessbetrags]] — Festsetzung des Steuermessbetrags
+- [[GewStG § 14a Steuererklärungspflicht]] — Steuererklärungspflicht
+- [[GewStG § 14b Verspätungszuschlag]] — Verspätungszuschlag
+- [[GewStG § 15 Pauschfestsetzung]] — Pauschfestsetzung
+- [[GewStG § 16 Hebesatz]] — Hebesatz
+- [[GewStG § 17 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 18 Entstehung der Steuer]] — Entstehung der Steuer
+- [[GewStG § 19 Vorauszahlungen]] — Vorauszahlungen
+- [[GewStG § 20 Abrechnung über die Vorauszahlungen]] — Abrechnung über die Vorauszahlungen
+- [[GewStG § 21 Entstehung der Vorauszahlungen]] — Entstehung der Vorauszahlungen
+- [[GewStG §§ 22 bis 27 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 28 Allgemeines]] — Allgemeines
+- [[GewStG § 29 Zerlegungsmaßstab]] — Zerlegungsmaßstab
+- [[GewStG § 30 Zerlegung bei mehrgemeindlichen Betriebsstätten]] — Zerlegung bei mehrgemeindlichen Betriebsstätten
+- [[GewStG § 31 Begriff der Arbeitslöhne für die Zerlegung]] — Begriff der Arbeitslöhne für die Zerlegung
+- [[GewStG § 32 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 33 Zerlegung in besonderen Fällen]] — Zerlegung in besonderen Fällen
+- [[GewStG § 34 Kleinbeträge]] — Kleinbeträge
+- [[GewStG § 35 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+- [[GewStG § 35a]] — Gewerbesteuerliche Einzelregelung
+- [[GewStG § 35b]] — Gewerbesteuerliche Einzelregelung
+- [[GewStG § 35c Ermächtigung]] — Ermächtigung
+- [[GewStG § 36 Zeitlicher Anwendungsbereich]] — Zeitlicher Anwendungsbereich
+- [[GewStG § 37 (weggefallen)]] — Weggefallene Vorschrift ohne aktuellen materiellen Regelungsinhalt
+
+
+## Synthesis
+
+
+
+
+
+
