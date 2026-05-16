@@ -1,6 +1,8 @@
-# Steuererklärung Brain
+# 🧠 Steuererklärung Brain
 
-> Ein Obsidian Vault als steuerliches Second Brain für Angestellte mit Kleingewerbe, KI-Dienstleistungen und deutscher Steuererklärung.
+> **372 Paragraphen. Drei Gesetze. Ein Graph.**
+> EStG · UStG · GewStG — vollständig modelliert als verlinkter Obsidian-Wissensgraph.
+> Die präzise, lokale Wissensquelle für LLMs zu allen deutschen Steuerfragen.
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Vault](https://img.shields.io/badge/obsidian-vault-7C3AED)
