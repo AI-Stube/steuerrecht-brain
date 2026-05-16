@@ -1,4 +1,4 @@
-# 🧠 Steuererklärung Brain
+# 🧠 Steuerrecht Brain
 
 > **372 Paragraphen. Drei Gesetze. Ein Graph.**
 > EStG · UStG · GewStG — vollständig modelliert als verlinkter Obsidian-Wissensgraph.
