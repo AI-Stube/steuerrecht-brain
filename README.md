@@ -100,6 +100,37 @@ Dadurch kann ein LLM gezielt im lokalen Wissensbestand suchen, ohne den Kontext 
 - Was muss ich als Angestellter mit Nebengewerbe bei der Steuererklärung beachten?
 - Welche Zusammenhänge gibt es zwischen EStG, UStG und GewStG?
 
+## Quickstart — In 3 Schritten einsatzbereit
+
+Das Brain ist sofort nutzbar. Keine Datenbank, kein Server, kein Setup.
+
+### Schritt 1 — Repository klonen
+
+```bash
+git clone https://github.com/AI-Stube/steuerrecht-brain.git
+```
+
+Oder als ZIP herunterladen: **Code → Download ZIP**, entpacken, fertig.
+
+### Schritt 2 — In Obsidian als Vault öffnen
+
+1. Obsidian starten → **„Vault aus vorhandenem Ordner öffnen"**
+2. Den geklonten Ordner auswählen
+3. Im **Graph View** (`Strg+G`) das gesamte Wissensnetz sichtbar machen — 370+ verlinkte Paragraphen und Begriffe auf einen Blick
+
+### Schritt 3 — Mit KI-Assistenten arbeiten
+
+Den Ordner in **Claude Code** oder einem kompatiblen KI-Tool öffnen:
+
+```bash
+cd steuerrecht-brain
+claude
+```
+
+Ab diesem Moment steht das gesamte Steuerrecht als strukturierte, lokale Wissensquelle zur Verfügung. Fragen an EStG, UStG und GewStG werden direkt gegen den Wissensgraph beantwortet — ohne Halluzinationen, ohne externe Abhängigkeiten.
+
+---
+
 ## GitHub-Ziel
 
 Dieses Repository repräsentiert den öffentlichen, kuratierten Teil des Steuer-Brains:
