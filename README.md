@@ -142,6 +142,10 @@ Dieses Repository repräsentiert den öffentlichen, kuratierten Teil des Steuer-
 
 Nicht gedacht für den Upload sind persönliche Rohdaten, lokale Obsidian-Einstellungen, temporäre Outputs oder private Steuerunterlagen.
 
+## Datenquelle
+
+Die Gesetzestexte stammen vollständig von [gesetze-im-internet.de](https://www.gesetze-im-internet.de/), dem offiziellen Onlineportal des Bundesministeriums der Justiz. Gesetzestand: **17. Mai 2026**.
+
 ## Hinweis
 
 Dieses Projekt ist ein persönliches Wissens- und Recherche-System. Es ersetzt keine Steuerberatung und garantiert keine Aktualität oder Vollständigkeit der Rechtslage. Für verbindliche Entscheidungen sollten Gesetzesstand, Verwaltungsauffassung und fachliche Beratung geprüft werden.
